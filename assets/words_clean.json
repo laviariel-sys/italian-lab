@@ -1,0 +1,5494 @@
+[
+  {
+    "it": "Abitare",
+    "en": "Live"
+  },
+  {
+    "it": "Aiutare",
+    "en": "Help"
+  },
+  {
+    "it": "Alzare",
+    "en": "Lift"
+  },
+  {
+    "it": "Amare",
+    "en": "Love"
+  },
+  {
+    "it": "Arrivare",
+    "en": "Arrive"
+  },
+  {
+    "it": "Ascoltare",
+    "en": "Listen"
+  },
+  {
+    "it": "Aspettare",
+    "en": "Wait"
+  },
+  {
+    "it": "Ballare",
+    "en": "Dance"
+  },
+  {
+    "it": "Bere",
+    "en": "Drink"
+  },
+  {
+    "it": "Capire",
+    "en": "Understand"
+  },
+  {
+    "it": "Cantare",
+    "en": "Sing"
+  },
+  {
+    "it": "Cercare",
+    "en": "Search"
+  },
+  {
+    "it": "Chiamare",
+    "en": "Call"
+  },
+  {
+    "it": "Chiudere",
+    "en": "Close"
+  },
+  {
+    "it": "Comprare",
+    "en": "Buy"
+  },
+  {
+    "it": "Cominciare",
+    "en": "Begin"
+  },
+  {
+    "it": "Conoscere",
+    "en": "Know"
+  },
+  {
+    "it": "Correre",
+    "en": "Run"
+  },
+  {
+    "it": "Credere",
+    "en": "Believe"
+  },
+  {
+    "it": "Cucinare",
+    "en": "Cook"
+  },
+  {
+    "it": "Dare",
+    "en": "Give"
+  },
+  {
+    "it": "Decidere",
+    "en": "Decide"
+  },
+  {
+    "it": "Dire",
+    "en": "Say"
+  },
+  {
+    "it": "Domandare",
+    "en": "Ask"
+  },
+  {
+    "it": "Dormire",
+    "en": "Sleep"
+  },
+  {
+    "it": "Dovere",
+    "en": "Must"
+  },
+  {
+    "it": "Entrare",
+    "en": "Enter"
+  },
+  {
+    "it": "Fare",
+    "en": "Do/Make"
+  },
+  {
+    "it": "Fermare",
+    "en": "Stop"
+  },
+  {
+    "it": "Finire",
+    "en": "Finish"
+  },
+  {
+    "it": "Giocare",
+    "en": "Play"
+  },
+  {
+    "it": "Guardare",
+    "en": "Look"
+  },
+  {
+    "it": "Guidare",
+    "en": "Drive"
+  },
+  {
+    "it": "Imparare",
+    "en": "Learn"
+  },
+  {
+    "it": "Incontrare",
+    "en": "Meet"
+  },
+  {
+    "it": "Iniziare",
+    "en": "Start"
+  },
+  {
+    "it": "Insegnare",
+    "en": "Teach"
+  },
+  {
+    "it": "Invitare",
+    "en": "Invite"
+  },
+  {
+    "it": "Lavare",
+    "en": "Wash"
+  },
+  {
+    "it": "Lavorare",
+    "en": "Work"
+  },
+  {
+    "it": "Leggere",
+    "en": "Read"
+  },
+  {
+    "it": "Mandare",
+    "en": "Send"
+  },
+  {
+    "it": "Mangiare",
+    "en": "Eat"
+  },
+  {
+    "it": "Mettere",
+    "en": "Put"
+  },
+  {
+    "it": "Morire",
+    "en": "Die"
+  },
+  {
+    "it": "Nuotare",
+    "en": "Swim"
+  },
+  {
+    "it": "Offrire",
+    "en": "Offer"
+  },
+  {
+    "it": "Ordinare",
+    "en": "Order"
+  },
+  {
+    "it": "Pagare",
+    "en": "Pay"
+  },
+  {
+    "it": "Parlare",
+    "en": "Speak"
+  },
+  {
+    "it": "Partire",
+    "en": "Leave"
+  },
+  {
+    "it": "Passare",
+    "en": "Pass"
+  },
+  {
+    "it": "Pensare",
+    "en": "Think"
+  },
+  {
+    "it": "Perdere",
+    "en": "Lose"
+  },
+  {
+    "it": "Portare",
+    "en": "Carry"
+  },
+  {
+    "it": "Potere",
+    "en": "Can"
+  },
+  {
+    "it": "Pranzare",
+    "en": "Lunch"
+  },
+  {
+    "it": "Prendere",
+    "en": "Take"
+  },
+  {
+    "it": "Provare",
+    "en": "Try"
+  },
+  {
+    "it": "Pulire",
+    "en": "Clean"
+  },
+  {
+    "it": "Restare",
+    "en": "Stay"
+  },
+  {
+    "it": "Ricevere",
+    "en": "Receive"
+  },
+  {
+    "it": "Ridere",
+    "en": "Laugh"
+  },
+  {
+    "it": "Rispondere",
+    "en": "Answer"
+  },
+  {
+    "it": "Salire",
+    "en": "Go up"
+  },
+  {
+    "it": "Salutare",
+    "en": "Greet"
+  },
+  {
+    "it": "Sapere",
+    "en": "Know"
+  },
+  {
+    "it": "Scegliere",
+    "en": "Choose"
+  },
+  {
+    "it": "Scrivere",
+    "en": "Write"
+  },
+  {
+    "it": "Scusare",
+    "en": "Excuse"
+  },
+  {
+    "it": "Sedere",
+    "en": "Sit"
+  },
+  {
+    "it": "Sembrare",
+    "en": "Seem"
+  },
+  {
+    "it": "Sentire",
+    "en": "Feel/Hear"
+  },
+  {
+    "it": "Servire",
+    "en": "Serve"
+  },
+  {
+    "it": "Spiegare",
+    "en": "Explain"
+  },
+  {
+    "it": "Sperare",
+    "en": "Hope"
+  },
+  {
+    "it": "Stare",
+    "en": "Be/Stay"
+  },
+  {
+    "it": "Studiare",
+    "en": "Study"
+  },
+  {
+    "it": "Svegliare",
+    "en": "Wake"
+  },
+  {
+    "it": "Tenere",
+    "en": "Hold"
+  },
+  {
+    "it": "Tornare",
+    "en": "Return"
+  },
+  {
+    "it": "Trovare",
+    "en": "Find"
+  },
+  {
+    "it": "Uscire",
+    "en": "Go out"
+  },
+  {
+    "it": "Usare",
+    "en": "Use"
+  },
+  {
+    "it": "Vedere",
+    "en": "See"
+  },
+  {
+    "it": "Venire",
+    "en": "Come"
+  },
+  {
+    "it": "Viaggiare",
+    "en": "Travel"
+  },
+  {
+    "it": "Vincere",
+    "en": "Win"
+  },
+  {
+    "it": "Visitare",
+    "en": "Visit"
+  },
+  {
+    "it": "Vivere",
+    "en": "Live"
+  },
+  {
+    "it": "Volare",
+    "en": "Fly"
+  },
+  {
+    "it": "Volere",
+    "en": "Want"
+  },
+  {
+    "it": "Prenotare",
+    "en": "Book"
+  },
+  {
+    "it": "Accadere",
+    "en": "Happen"
+  },
+  {
+    "it": "Accendere",
+    "en": "Turn on"
+  },
+  {
+    "it": "Adoperare",
+    "en": "Use"
+  },
+  {
+    "it": "Affittare",
+    "en": "Rent"
+  },
+  {
+    "it": "Aggiustare",
+    "en": "Fix"
+  },
+  {
+    "it": "Apparire",
+    "en": "Appear"
+  },
+  {
+    "it": "Appartenere",
+    "en": "Belong"
+  },
+  {
+    "it": "Approvare",
+    "en": "Approve"
+  },
+  {
+    "it": "Aprire",
+    "en": "Open"
+  },
+  {
+    "it": "Assicurare",
+    "en": "Insure"
+  },
+  {
+    "it": "Assistere",
+    "en": "Assist"
+  },
+  {
+    "it": "Atterrare",
+    "en": "Land"
+  },
+  {
+    "it": "Attraversare",
+    "en": "Cross"
+  },
+  {
+    "it": "Avanzare",
+    "en": "Advance"
+  },
+  {
+    "it": "Avvisare",
+    "en": "Warn"
+  },
+  {
+    "it": "Baciare",
+    "en": "Kiss"
+  },
+  {
+    "it": "Bastare",
+    "en": "Suffice"
+  },
+  {
+    "it": "Bloccare",
+    "en": "Block"
+  },
+  {
+    "it": "Buttare",
+    "en": "Throw"
+  },
+  {
+    "it": "Cadere",
+    "en": "Fall"
+  },
+  {
+    "it": "Calcolare",
+    "en": "Calculate"
+  },
+  {
+    "it": "Calmare",
+    "en": "Calm"
+  },
+  {
+    "it": "Cancellare",
+    "en": "Erase"
+  },
+  {
+    "it": "Cenare",
+    "en": "Dine"
+  },
+  {
+    "it": "Chiacchierare",
+    "en": "Chat"
+  },
+  {
+    "it": "Collezionare",
+    "en": "Collect"
+  },
+  {
+    "it": "Colpire",
+    "en": "Hit"
+  },
+  {
+    "it": "Consigliare",
+    "en": "Advise"
+  },
+  {
+    "it": "Contare",
+    "en": "Count"
+  },
+  {
+    "it": "Contattare",
+    "en": "Contact"
+  },
+  {
+    "it": "Controllare",
+    "en": "Check"
+  },
+  {
+    "it": "Costare",
+    "en": "Cost"
+  },
+  {
+    "it": "Costruire",
+    "en": "Build"
+  },
+  {
+    "it": "Creare",
+    "en": "Create"
+  },
+  {
+    "it": "Criticare",
+    "en": "Criticize"
+  },
+  {
+    "it": "Cucire",
+    "en": "Sew"
+  },
+  {
+    "it": "Curare",
+    "en": "Cure"
+  },
+  {
+    "it": "Danneggiare",
+    "en": "Damage"
+  },
+  {
+    "it": "Difendere",
+    "en": "Defend"
+  },
+  {
+    "it": "Dipendere",
+    "en": "Depend"
+  },
+  {
+    "it": "Disegnare",
+    "en": "Draw"
+  },
+  {
+    "it": "Disturbare",
+    "en": "Disturb"
+  },
+  {
+    "it": "Diventare",
+    "en": "Become"
+  },
+  {
+    "it": "Dividere",
+    "en": "Divide"
+  },
+  {
+    "it": "Donare",
+    "en": "Donate"
+  },
+  {
+    "it": "Dubitare",
+    "en": "Doubt"
+  },
+  {
+    "it": "Durare",
+    "en": "Last"
+  },
+  {
+    "it": "Esaminare",
+    "en": "Examine"
+  },
+  {
+    "it": "Esistere",
+    "en": "Exist"
+  },
+  {
+    "it": "Evitare",
+    "en": "Avoid"
+  },
+  {
+    "it": "Fidarsi",
+    "en": "Trust"
+  },
+  {
+    "it": "Firmare",
+    "en": "Sign"
+  },
+  {
+    "it": "Frequentare",
+    "en": "Attend"
+  },
+  {
+    "it": "Fumare",
+    "en": "Smoke"
+  },
+  {
+    "it": "Girare",
+    "en": "Turn"
+  },
+  {
+    "it": "Guadagnare",
+    "en": "Earn"
+  },
+  {
+    "it": "Gustare",
+    "en": "Taste"
+  },
+  {
+    "it": "Illuminare",
+    "en": "Light"
+  },
+  {
+    "it": "Implicare",
+    "en": "Imply"
+  },
+  {
+    "it": "Indicare",
+    "en": "Indicate"
+  },
+  {
+    "it": "Indovinare",
+    "en": "Guess"
+  },
+  {
+    "it": "Inserire",
+    "en": "Insert"
+  },
+  {
+    "it": "Inviare",
+    "en": "Send"
+  },
+  {
+    "it": "Isolare",
+    "en": "Isolate"
+  },
+  {
+    "it": "Lamentarsi",
+    "en": "Complain"
+  },
+  {
+    "it": "Lanciare",
+    "en": "Launch"
+  },
+  {
+    "it": "Liberare",
+    "en": "Free"
+  },
+  {
+    "it": "Mancare",
+    "en": "Miss"
+  },
+  {
+    "it": "Meritare",
+    "en": "Deserve"
+  },
+  {
+    "it": "Mescolare",
+    "en": "Mix"
+  },
+  {
+    "it": "Misurare",
+    "en": "Measure"
+  },
+  {
+    "it": "Mostrare",
+    "en": "Show"
+  },
+  {
+    "it": "Muovere",
+    "en": "Move"
+  },
+  {
+    "it": "Nascere",
+    "en": "Be born"
+  },
+  {
+    "it": "Negare",
+    "en": "Deny"
+  },
+  {
+    "it": "Notare",
+    "en": "Notice"
+  },
+  {
+    "it": "Obbligare",
+    "en": "Oblige"
+  },
+  {
+    "it": "Occupare",
+    "en": "Occupy"
+  },
+  {
+    "it": "Offendere",
+    "en": "Offend"
+  },
+  {
+    "it": "Ospitare",
+    "en": "Host"
+  },
+  {
+    "it": "Ottenere",
+    "en": "Obtain"
+  },
+  {
+    "it": "Passeggiare",
+    "en": "Stroll"
+  },
+  {
+    "it": "Percepire",
+    "en": "Perceive"
+  },
+  {
+    "it": "Perdonare",
+    "en": "Forgive"
+  },
+  {
+    "it": "Permettere",
+    "en": "Permit"
+  },
+  {
+    "it": "Pescare",
+    "en": "Fish"
+  },
+  {
+    "it": "Piegare",
+    "en": "Fold"
+  },
+  {
+    "it": "Piangere",
+    "en": "Cry"
+  },
+  {
+    "it": "Piacere",
+    "en": "Like"
+  },
+  {
+    "it": "Porgere",
+    "en": "Hand over"
+  },
+  {
+    "it": "Possedere",
+    "en": "Possess"
+  },
+  {
+    "it": "Praticare",
+    "en": "Practice"
+  },
+  {
+    "it": "Preferire",
+    "en": "Prefer"
+  },
+  {
+    "it": "Premere",
+    "en": "Press"
+  },
+  {
+    "it": "Prestare",
+    "en": "Lend"
+  },
+  {
+    "it": "Prevedere",
+    "en": "Predict"
+  },
+  {
+    "it": "Procedere",
+    "en": "Proceed"
+  },
+  {
+    "it": "Produrre",
+    "en": "Produce"
+  },
+  {
+    "it": "Proporre",
+    "en": "Propose"
+  },
+  {
+    "it": "Pubblicare",
+    "en": "Publish"
+  },
+  {
+    "it": "Pungere",
+    "en": "Sting"
+  },
+  {
+    "it": "Raggiungere",
+    "en": "Reach"
+  },
+  {
+    "it": "Ragionare",
+    "en": "Reason"
+  },
+  {
+    "it": "Realizzare",
+    "en": "Realize"
+  },
+  {
+    "it": "Regalare",
+    "en": "Gift"
+  },
+  {
+    "it": "Resistere",
+    "en": "Resist"
+  },
+  {
+    "it": "Respirare",
+    "en": "Breathe"
+  },
+  {
+    "it": "Ricevere",
+    "en": "Receive"
+  },
+  {
+    "it": "Rifiutare",
+    "en": "Refuse"
+  },
+  {
+    "it": "Riflettere",
+    "en": "Reflect"
+  },
+  {
+    "it": "Ringraziare",
+    "en": "Thank"
+  },
+  {
+    "it": "Riparare",
+    "en": "Repair"
+  },
+  {
+    "it": "Ripetere",
+    "en": "Repeat"
+  },
+  {
+    "it": "Riposare",
+    "en": "Rest"
+  },
+  {
+    "it": "Risolvere",
+    "en": "Resolve"
+  },
+  {
+    "it": "Risparmiare",
+    "en": "Save"
+  },
+  {
+    "it": "Risultare",
+    "en": "Result"
+  },
+  {
+    "it": "Riunire",
+    "en": "Gather"
+  },
+  {
+    "it": "Riuscire",
+    "en": "Succeed"
+  },
+  {
+    "it": "Rompere",
+    "en": "Break"
+  },
+  {
+    "it": "Rovinare",
+    "en": "Ruin"
+  },
+  {
+    "it": "Rubare",
+    "en": "Steal"
+  },
+  {
+    "it": "Saltare",
+    "en": "Jump"
+  },
+  {
+    "it": "Sbagliare",
+    "en": "Mistake"
+  },
+  {
+    "it": "Scappare",
+    "en": "Escape"
+  },
+  {
+    "it": "Scendere",
+    "en": "Descend"
+  },
+  {
+    "it": "Scivolare",
+    "en": "Slip"
+  },
+  {
+    "it": "Sconfiggere",
+    "en": "Defeat"
+  },
+  {
+    "it": "Scoprire",
+    "en": "Discover"
+  },
+  {
+    "it": "Scorrere",
+    "en": "Flow"
+  },
+  {
+    "it": "Segnalare",
+    "en": "Signal"
+  },
+  {
+    "it": "Seguire",
+    "en": "Follow"
+  },
+  {
+    "it": "Separare",
+    "en": "Separate"
+  },
+  {
+    "it": "Smettere",
+    "en": "Stop"
+  },
+  {
+    "it": "Sorridere",
+    "en": "Smile"
+  },
+  {
+    "it": "Sospettare",
+    "en": "Suspect"
+  },
+  {
+    "it": "Sostenere",
+    "en": "Support"
+  },
+  {
+    "it": "Sostituire",
+    "en": "Replace"
+  },
+  {
+    "it": "Sparire",
+    "en": "Vanish"
+  },
+  {
+    "it": "Spaventare",
+    "en": "Frighten"
+  },
+  {
+    "it": "Spingere",
+    "en": "Push"
+  },
+  {
+    "it": "Spostare",
+    "en": "Move"
+  },
+  {
+    "it": "Stampare",
+    "en": "Print"
+  },
+  {
+    "it": "Stancare",
+    "en": "Tire"
+  },
+  {
+    "it": "Stendere",
+    "en": "Spread"
+  },
+  {
+    "it": "Stringere",
+    "en": "Squeeze"
+  },
+  {
+    "it": "Tacere",
+    "en": "Be silent"
+  },
+  {
+    "it": "Tagliare",
+    "en": "Cut"
+  },
+  {
+    "it": "Tardare",
+    "en": "Be late"
+  },
+  {
+    "it": "Temere",
+    "en": "Fear"
+  },
+  {
+    "it": "Togliere",
+    "en": "Remove"
+  },
+  {
+    "it": "Toccare",
+    "en": "Touch"
+  },
+  {
+    "it": "Tradurre",
+    "en": "Translate"
+  },
+  {
+    "it": "Trarre",
+    "en": "Draw/Pull"
+  },
+  {
+    "it": "Trattare",
+    "en": "Treat"
+  },
+  {
+    "it": "Tremare",
+    "en": "Tremble"
+  },
+  {
+    "it": "Uccidere",
+    "en": "Kill"
+  },
+  {
+    "it": "Udire",
+    "en": "Hear"
+  },
+  {
+    "it": "Unire",
+    "en": "Unite"
+  },
+  {
+    "it": "Abbinare",
+    "en": "Match"
+  },
+  {
+    "it": "Abbracciare",
+    "en": "Hug"
+  },
+  {
+    "it": "Accusare",
+    "en": "Accuse"
+  },
+  {
+    "it": "Adattare",
+    "en": "Adapt"
+  },
+  {
+    "it": "Addestrare",
+    "en": "Train"
+  },
+  {
+    "it": "Affermare",
+    "en": "State"
+  },
+  {
+    "it": "Affidare",
+    "en": "Entrust"
+  },
+  {
+    "it": "Affrettare",
+    "en": "Hurry"
+  },
+  {
+    "it": "Aggirare",
+    "en": "Bypass"
+  },
+  {
+    "it": "Agitare",
+    "en": "Shake"
+  },
+  {
+    "it": "Allegare",
+    "en": "Attach"
+  },
+  {
+    "it": "Allenare",
+    "en": "Train"
+  },
+  {
+    "it": "Allontanare",
+    "en": "Remove"
+  },
+  {
+    "it": "Ammirare",
+    "en": "Admire"
+  },
+  {
+    "it": "Analizzare",
+    "en": "Analyze"
+  },
+  {
+    "it": "Animare",
+    "en": "Animate"
+  },
+  {
+    "it": "Appoggiare",
+    "en": "Lean"
+  },
+  {
+    "it": "Arredare",
+    "en": "Furnish"
+  },
+  {
+    "it": "Arrestare",
+    "en": "Stop"
+  },
+  {
+    "it": "Arricchire",
+    "en": "Enrich"
+  },
+  {
+    "it": "Assegnare",
+    "en": "Assign"
+  },
+  {
+    "it": "Assaggiare",
+    "en": "Taste"
+  },
+  {
+    "it": "Attirare",
+    "en": "Attract"
+  },
+  {
+    "it": "Attivare",
+    "en": "Activate"
+  },
+  {
+    "it": "Attrezzare",
+    "en": "Equip"
+  },
+  {
+    "it": "Augurare",
+    "en": "Wish"
+  },
+  {
+    "it": "Avvelenare",
+    "en": "Poison"
+  },
+  {
+    "it": "Avviare",
+    "en": "Start up"
+  },
+  {
+    "it": "Avvolgere",
+    "en": "Wrap"
+  },
+  {
+    "it": "Badare",
+    "en": "Take care"
+  },
+  {
+    "it": "Barattare",
+    "en": "Barter"
+  },
+  {
+    "it": "Beneficiare",
+    "en": "Benefit"
+  },
+  {
+    "it": "Bocciare",
+    "en": "Fail"
+  },
+  {
+    "it": "Braccare",
+    "en": "Track"
+  },
+  {
+    "it": "Brillare",
+    "en": "Shine"
+  },
+  {
+    "it": "Brindare",
+    "en": "Toast"
+  },
+  {
+    "it": "Bruciare",
+    "en": "Burn"
+  },
+  {
+    "it": "Bussare",
+    "en": "Knock"
+  },
+  {
+    "it": "Cacciare",
+    "en": "Hunt"
+  },
+  {
+    "it": "Calpestare",
+    "en": "Trample"
+  },
+  {
+    "it": "Caricare",
+    "en": "Load"
+  },
+  {
+    "it": "Causare",
+    "en": "Cause"
+  },
+  {
+    "it": "Cavalcare",
+    "en": "Ride"
+  },
+  {
+    "it": "Cestinare",
+    "en": "Trash"
+  },
+  {
+    "it": "Citare",
+    "en": "Quote"
+  },
+  {
+    "it": "Collocare",
+    "en": "Place"
+  },
+  {
+    "it": "Colorare",
+    "en": "Color"
+  },
+  {
+    "it": "Condividere",
+    "en": "Share"
+  },
+  {
+    "it": "Confidare",
+    "en": "Confide"
+  },
+  {
+    "it": "Consegnare",
+    "en": "Deliver"
+  },
+  {
+    "it": "Conservare",
+    "en": "Keep"
+  },
+  {
+    "it": "Copiare",
+    "en": "Copy"
+  },
+  {
+    "it": "Dedicare",
+    "en": "Dedicate"
+  },
+  {
+    "it": "Elencare",
+    "en": "List"
+  },
+  {
+    "it": "Esibire",
+    "en": "Exhibit"
+  },
+  {
+    "it": "Esplodere",
+    "en": "Explode"
+  },
+  {
+    "it": "Favorire",
+    "en": "Favor"
+  },
+  {
+    "it": "Formare",
+    "en": "Form"
+  },
+  {
+    "it": "Gestire",
+    "en": "Manage"
+  },
+  {
+    "it": "Imporre",
+    "en": "Impose"
+  },
+  {
+    "it": "Includere",
+    "en": "Include"
+  },
+  {
+    "it": "Mentire",
+    "en": "Lie"
+  },
+  {
+    "it": "Nominare",
+    "en": "Name"
+  },
+  {
+    "it": "Nutrire",
+    "en": "Nourish"
+  },
+  {
+    "it": "Onorare",
+    "en": "Honor"
+  },
+  {
+    "it": "Ospitare",
+    "en": "Host"
+  },
+  {
+    "it": "Prevedere",
+    "en": "Foresee"
+  },
+  {
+    "it": "Punire",
+    "en": "Punish"
+  },
+  {
+    "it": "Radunare",
+    "en": "Gather"
+  },
+  {
+    "it": "Reagire",
+    "en": "React"
+  },
+  {
+    "it": "Regolare",
+    "en": "Regulate"
+  },
+  {
+    "it": "Rifiutare",
+    "en": "Refuse"
+  },
+  {
+    "it": "Ringraziare",
+    "en": "Thank"
+  },
+  {
+    "it": "Sconvolgere",
+    "en": "Upset"
+  },
+  {
+    "it": "Sussurrare",
+    "en": "Whisper"
+  },
+  {
+    "it": "Casa",
+    "en": "Home"
+  },
+  {
+    "it": "Città",
+    "en": "City"
+  },
+  {
+    "it": "Ragazzo",
+    "en": "Boy"
+  },
+  {
+    "it": "Ragazza",
+    "en": "Girl"
+  },
+  {
+    "it": "Amico",
+    "en": "Friend male"
+  },
+  {
+    "it": "Famiglia",
+    "en": "Family"
+  },
+  {
+    "it": "Nome",
+    "en": "Name"
+  },
+  {
+    "it": "Parola",
+    "en": "Word"
+  },
+  {
+    "it": "Cosa",
+    "en": "Thing"
+  },
+  {
+    "it": "Giorno",
+    "en": "Day"
+  },
+  {
+    "it": "Settimana",
+    "en": "Week"
+  },
+  {
+    "it": "Mese",
+    "en": "Month"
+  },
+  {
+    "it": "Anno",
+    "en": "Year"
+  },
+  {
+    "it": "Ora",
+    "en": "Hour"
+  },
+  {
+    "it": "Acqua",
+    "en": "Water"
+  },
+  {
+    "it": "Dottore",
+    "en": "Doctor"
+  },
+  {
+    "it": "Aereo",
+    "en": "Airplane"
+  },
+  {
+    "it": "Bagno",
+    "en": "Bathroom"
+  },
+  {
+    "it": "Cibo",
+    "en": "Food"
+  },
+  {
+    "it": "Albergo",
+    "en": "Hotel"
+  },
+  {
+    "it": "Polizia",
+    "en": "Police"
+  },
+  {
+    "it": "Porta",
+    "en": "Door"
+  },
+  {
+    "it": "Cucina",
+    "en": "Kitchen"
+  },
+  {
+    "it": "Pane",
+    "en": "Bread"
+  },
+  {
+    "it": "Negozio",
+    "en": "Shop"
+  },
+  {
+    "it": "Macchina",
+    "en": "Car"
+  },
+  {
+    "it": "Finestra",
+    "en": "Window"
+  },
+  {
+    "it": "Telefono",
+    "en": "Phone"
+  },
+  {
+    "it": "Latte",
+    "en": "Milk"
+  },
+  {
+    "it": "Piazza",
+    "en": "Square"
+  },
+  {
+    "it": "Autobus",
+    "en": "Bus"
+  },
+  {
+    "it": "Chiave",
+    "en": "Key"
+  },
+  {
+    "it": "Computer",
+    "en": "Computer"
+  },
+  {
+    "it": "Caffè",
+    "en": "Coffee"
+  },
+  {
+    "it": "Ospedale",
+    "en": "Hospital"
+  },
+  {
+    "it": "Letto",
+    "en": "Bed"
+  },
+  {
+    "it": "Soldi",
+    "en": "Money"
+  },
+  {
+    "it": "Lavoro",
+    "en": "Work"
+  },
+  {
+    "it": "Problema",
+    "en": "Problem"
+  },
+  {
+    "it": "Idea",
+    "en": "Idea"
+  },
+  {
+    "it": "Inizio",
+    "en": "Start"
+  },
+  {
+    "it": "Fine",
+    "en": "End"
+  },
+  {
+    "it": "Punto",
+    "en": "Point"
+  },
+  {
+    "it": "Tempo",
+    "en": "Time"
+  },
+  {
+    "it": "Parte",
+    "en": "Part"
+  },
+  {
+    "it": "Cielo",
+    "en": "Sky"
+  },
+  {
+    "it": "Sole",
+    "en": "Sun"
+  },
+  {
+    "it": "Luna",
+    "en": "Moon"
+  },
+  {
+    "it": "Stella",
+    "en": "Star"
+  },
+  {
+    "it": "Albero",
+    "en": "Tree"
+  },
+  {
+    "it": "Fiore",
+    "en": "Flower"
+  },
+  {
+    "it": "Cane",
+    "en": "Dog"
+  },
+  {
+    "it": "Gatto",
+    "en": "Cat"
+  },
+  {
+    "it": "Corpo",
+    "en": "Body"
+  },
+  {
+    "it": "Mano",
+    "en": "Hand"
+  },
+  {
+    "it": "Occhio",
+    "en": "Eye"
+  },
+  {
+    "it": "Bocca",
+    "en": "Mouth"
+  },
+  {
+    "it": "Braccio",
+    "en": "Arm"
+  },
+  {
+    "it": "Gamba",
+    "en": "Leg"
+  },
+  {
+    "it": "Schiena",
+    "en": "Back"
+  },
+  {
+    "it": "Vestito",
+    "en": "Dress"
+  },
+  {
+    "it": "Scarpa",
+    "en": "Shoe"
+  },
+  {
+    "it": "Amore",
+    "en": "Love"
+  },
+  {
+    "it": "Risposta",
+    "en": "Answer"
+  },
+  {
+    "it": "Strada",
+    "en": "Street"
+  },
+  {
+    "it": "Scuola",
+    "en": "School"
+  },
+  {
+    "it": "Libro",
+    "en": "Book"
+  },
+  {
+    "it": "Tavolo",
+    "en": "Table"
+  },
+  {
+    "it": "Sedia",
+    "en": "Chair"
+  },
+  {
+    "it": "Mare",
+    "en": "Sea"
+  },
+  {
+    "it": "Montagna",
+    "en": "Mountain"
+  },
+  {
+    "it": "Sole",
+    "en": "Sun"
+  },
+  {
+    "it": "Notte",
+    "en": "Night"
+  },
+  {
+    "it": "Mattina",
+    "en": "Morning"
+  },
+  {
+    "it": "Sera",
+    "en": "Evening"
+  },
+  {
+    "it": "Madre",
+    "en": "Mother"
+  },
+  {
+    "it": "Padre",
+    "en": "Father"
+  },
+  {
+    "it": "Figlio",
+    "en": "Son"
+  },
+  {
+    "it": "Figlia",
+    "en": "Daughter"
+  },
+  {
+    "it": "Fratello",
+    "en": "Brother"
+  },
+  {
+    "it": "Sorella",
+    "en": "Sister"
+  },
+  {
+    "it": "Uomo",
+    "en": "Man"
+  },
+  {
+    "it": "Donna",
+    "en": "Woman"
+  },
+  {
+    "it": "Persona",
+    "en": "Person"
+  },
+  {
+    "it": "Numero",
+    "en": "Number"
+  },
+  {
+    "it": "Gruppo",
+    "en": "Group"
+  },
+  {
+    "it": "Mondo",
+    "en": "World"
+  },
+  {
+    "it": "Stato",
+    "en": "State"
+  },
+  {
+    "it": "Paese",
+    "en": "Country"
+  },
+  {
+    "it": "Modo",
+    "en": "Way"
+  },
+  {
+    "it": "Sistema",
+    "en": "System"
+  },
+  {
+    "it": "Caso",
+    "en": "Case"
+  },
+  {
+    "it": "Punto",
+    "en": "Point"
+  },
+  {
+    "it": "Indotto",
+    "en": "Induced"
+  },
+  {
+    "it": "Infanzia",
+    "en": "Infancy"
+  },
+  {
+    "it": "Infezione",
+    "en": "Infection"
+  },
+  {
+    "it": "Infinito",
+    "en": "Infinity"
+  },
+  {
+    "it": "Infisso",
+    "en": "Fixture"
+  },
+  {
+    "it": "Inganno",
+    "en": "Deceit"
+  },
+  {
+    "it": "Ingiustizia",
+    "en": "Injustice"
+  },
+  {
+    "it": "Ingombro",
+    "en": "Bulk"
+  },
+  {
+    "it": "Ingranaggio",
+    "en": "Gear"
+  },
+  {
+    "it": "Iniziativa",
+    "en": "Initiative"
+  },
+  {
+    "it": "Innesco",
+    "en": "Trigger"
+  },
+  {
+    "it": "Inondazione",
+    "en": "Flood"
+  },
+  {
+    "it": "Insidia",
+    "en": "Snare"
+  },
+  {
+    "it": "Insuccesso",
+    "en": "Failure"
+  },
+  {
+    "it": "Intaglio",
+    "en": "Carving"
+  },
+  {
+    "it": "Intarsio",
+    "en": "Inlay"
+  },
+  {
+    "it": "Intelletto",
+    "en": "Intellect"
+  },
+  {
+    "it": "Intesa",
+    "en": "Agreement"
+  },
+  {
+    "it": "Intreccio",
+    "en": "Plot"
+  },
+  {
+    "it": "Intrigo",
+    "en": "Intrigue"
+  },
+  {
+    "it": "Invasione",
+    "en": "Invasion"
+  },
+  {
+    "it": "Inverno",
+    "en": "Winter"
+  },
+  {
+    "it": "Inviato",
+    "en": "Envoy"
+  },
+  {
+    "it": "Involucro",
+    "en": "Casing"
+  },
+  {
+    "it": "Ipoteca",
+    "en": "Mortgage"
+  },
+  {
+    "it": "Ironia",
+    "en": "Irony"
+  },
+  {
+    "it": "Irrigazione",
+    "en": "Irrigation"
+  },
+  {
+    "it": "Istinto",
+    "en": "Instinct"
+  },
+  {
+    "it": "Istruzione",
+    "en": "Instruction"
+  },
+  {
+    "it": "Itinerario",
+    "en": "Itinerary"
+  },
+  {
+    "it": "Labbro",
+    "en": "Lip"
+  },
+  {
+    "it": "Lacuna",
+    "en": "Gap"
+  },
+  {
+    "it": "Lamento",
+    "en": "Lament"
+  },
+  {
+    "it": "Lancetta",
+    "en": "Clock-hand"
+  },
+  {
+    "it": "Lancio",
+    "en": "Launch"
+  },
+  {
+    "it": "Larghezza",
+    "en": "Width"
+  },
+  {
+    "it": "Lastra",
+    "en": "Slab"
+  },
+  {
+    "it": "Latitante",
+    "en": "Fugitive"
+  },
+  {
+    "it": "Latitudine",
+    "en": "Latitude"
+  },
+  {
+    "it": "Lato",
+    "en": "Side"
+  },
+  {
+    "it": "Lattice",
+    "en": "Latex"
+  },
+  {
+    "it": "Laurea",
+    "en": "Degree"
+  },
+  {
+    "it": "Lavaggio",
+    "en": "Washing"
+  },
+  {
+    "it": "Lealtà",
+    "en": "Loyalty"
+  },
+  {
+    "it": "Legame",
+    "en": "Bond"
+  },
+  {
+    "it": "Leggenda",
+    "en": "Legend"
+  },
+  {
+    "it": "Letargo",
+    "en": "Hibernation"
+  },
+  {
+    "it": "Lettore",
+    "en": "Reader"
+  },
+  {
+    "it": "Lettura",
+    "en": "Reading"
+  },
+  {
+    "it": "Leva",
+    "en": "Lever"
+  },
+  {
+    "it": "Levità",
+    "en": "Levity"
+  },
+  {
+    "it": "Licenza",
+    "en": "License"
+  },
+  {
+    "it": "Lieto",
+    "en": "Joy - Noun"
+  },
+  {
+    "it": "Lieve",
+    "en": "Slight - Noun"
+  },
+  {
+    "it": "Limite",
+    "en": "Limit"
+  },
+  {
+    "it": "Limpidezza",
+    "en": "Clarity"
+  },
+  {
+    "it": "Lince",
+    "en": "Lynx"
+  },
+  {
+    "it": "Lino",
+    "en": "Linen"
+  },
+  {
+    "it": "Liquido",
+    "en": "Liquid"
+  },
+  {
+    "it": "Lirica",
+    "en": "Lyric"
+  },
+  {
+    "it": "Lisca",
+    "en": "Fishbone"
+  },
+  {
+    "it": "Lista",
+    "en": "List"
+  },
+  {
+    "it": "Litigio",
+    "en": "Quarrel"
+  },
+  {
+    "it": "Livello",
+    "en": "Level"
+  },
+  {
+    "it": "Livido",
+    "en": "Bruise"
+  },
+  {
+    "it": "Locale",
+    "en": "Premises"
+  },
+  {
+    "it": "Locatario",
+    "en": "Tenant"
+  },
+  {
+    "it": "Loggia",
+    "en": "Loggia"
+  },
+  {
+    "it": "Logica",
+    "en": "Logic"
+  },
+  {
+    "it": "Logorio",
+    "en": "Wear"
+  },
+  {
+    "it": "Lottatore",
+    "en": "Wrestler"
+  },
+  {
+    "it": "Luce",
+    "en": "Light"
+  },
+  {
+    "it": "Lucentezza",
+    "en": "Shine"
+  },
+  {
+    "it": "Lucertola",
+    "en": "Lizard"
+  },
+  {
+    "it": "Lucchetto",
+    "en": "Padlock"
+  },
+  {
+    "it": "Lucciola",
+    "en": "Firefly"
+  },
+  {
+    "it": "Lucro",
+    "en": "Profit"
+  },
+  {
+    "it": "Luglio",
+    "en": "July"
+  },
+  {
+    "it": "Lumaca",
+    "en": "Snail"
+  },
+  {
+    "it": "Lume",
+    "en": "Lamp"
+  },
+  {
+    "it": "Lungaggine",
+    "en": "Delay"
+  },
+  {
+    "it": "Luogo",
+    "en": "Place"
+  },
+  {
+    "it": "Indotto",
+    "en": "Induced"
+  },
+  {
+    "it": "Infanzia",
+    "en": "Infancy"
+  },
+  {
+    "it": "Infezione",
+    "en": "Infection"
+  },
+  {
+    "it": "Infinito",
+    "en": "Infinity"
+  },
+  {
+    "it": "Infisso",
+    "en": "Fixture"
+  },
+  {
+    "it": "Inganno",
+    "en": "Deceit"
+  },
+  {
+    "it": "Ingiustizia",
+    "en": "Injustice"
+  },
+  {
+    "it": "Ingombro",
+    "en": "Bulk"
+  },
+  {
+    "it": "Ingranaggio",
+    "en": "Gear"
+  },
+  {
+    "it": "Iniziativa",
+    "en": "Initiative"
+  },
+  {
+    "it": "Innesco",
+    "en": "Trigger"
+  },
+  {
+    "it": "Inondazione",
+    "en": "Flood"
+  },
+  {
+    "it": "Insidia",
+    "en": "Snare"
+  },
+  {
+    "it": "Insuccesso",
+    "en": "Failure"
+  },
+  {
+    "it": "Intaglio",
+    "en": "Carving"
+  },
+  {
+    "it": "Intarsio",
+    "en": "Inlay"
+  },
+  {
+    "it": "Intelletto",
+    "en": "Intellect"
+  },
+  {
+    "it": "Intesa",
+    "en": "Agreement"
+  },
+  {
+    "it": "Intreccio",
+    "en": "Plot"
+  },
+  {
+    "it": "Intrigo",
+    "en": "Intrigue"
+  },
+  {
+    "it": "Invasione",
+    "en": "Invasion"
+  },
+  {
+    "it": "Inverno",
+    "en": "Winter"
+  },
+  {
+    "it": "Inviato",
+    "en": "Envoy"
+  },
+  {
+    "it": "Involucro",
+    "en": "Casing"
+  },
+  {
+    "it": "Ipoteca",
+    "en": "Mortgage"
+  },
+  {
+    "it": "Ironia",
+    "en": "Irony"
+  },
+  {
+    "it": "Irrigazione",
+    "en": "Irrigation"
+  },
+  {
+    "it": "Istinto",
+    "en": "Instinct"
+  },
+  {
+    "it": "Istruzione",
+    "en": "Instruction"
+  },
+  {
+    "it": "Itinerario",
+    "en": "Itinerary"
+  },
+  {
+    "it": "Labbro",
+    "en": "Lip"
+  },
+  {
+    "it": "Lacuna",
+    "en": "Gap"
+  },
+  {
+    "it": "Lamento",
+    "en": "Lament"
+  },
+  {
+    "it": "Lancetta",
+    "en": "Clock-hand"
+  },
+  {
+    "it": "Lancio",
+    "en": "Launch"
+  },
+  {
+    "it": "Larghezza",
+    "en": "Width"
+  },
+  {
+    "it": "Lastra",
+    "en": "Slab"
+  },
+  {
+    "it": "Latitante",
+    "en": "Fugitive"
+  },
+  {
+    "it": "Latitudine",
+    "en": "Latitude"
+  },
+  {
+    "it": "Lato",
+    "en": "Side"
+  },
+  {
+    "it": "Lattice",
+    "en": "Latex"
+  },
+  {
+    "it": "Laurea",
+    "en": "Degree"
+  },
+  {
+    "it": "Lavaggio",
+    "en": "Washing"
+  },
+  {
+    "it": "Lealtà",
+    "en": "Loyalty"
+  },
+  {
+    "it": "Legame",
+    "en": "Bond"
+  },
+  {
+    "it": "Leggenda",
+    "en": "Legend"
+  },
+  {
+    "it": "Letargo",
+    "en": "Hibernation"
+  },
+  {
+    "it": "Lettore",
+    "en": "Reader"
+  },
+  {
+    "it": "Lettura",
+    "en": "Reading"
+  },
+  {
+    "it": "Leva",
+    "en": "Lever"
+  },
+  {
+    "it": "Levità",
+    "en": "Levity"
+  },
+  {
+    "it": "Licenza",
+    "en": "License"
+  },
+  {
+    "it": "Lieto",
+    "en": "Joy - Noun"
+  },
+  {
+    "it": "Lieve",
+    "en": "Slight - Noun"
+  },
+  {
+    "it": "Limite",
+    "en": "Limit"
+  },
+  {
+    "it": "Limpidezza",
+    "en": "Clarity"
+  },
+  {
+    "it": "Lince",
+    "en": "Lynx"
+  },
+  {
+    "it": "Lino",
+    "en": "Linen"
+  },
+  {
+    "it": "Liquido",
+    "en": "Liquid"
+  },
+  {
+    "it": "Lirica",
+    "en": "Lyric"
+  },
+  {
+    "it": "Lisca",
+    "en": "Fishbone"
+  },
+  {
+    "it": "Lista",
+    "en": "List"
+  },
+  {
+    "it": "Litigio",
+    "en": "Quarrel"
+  },
+  {
+    "it": "Livello",
+    "en": "Level"
+  },
+  {
+    "it": "Livido",
+    "en": "Bruise"
+  },
+  {
+    "it": "Locale",
+    "en": "Premises"
+  },
+  {
+    "it": "Locatario",
+    "en": "Tenant"
+  },
+  {
+    "it": "Loggia",
+    "en": "Loggia"
+  },
+  {
+    "it": "Logica",
+    "en": "Logic"
+  },
+  {
+    "it": "Logorio",
+    "en": "Wear"
+  },
+  {
+    "it": "Lottatore",
+    "en": "Wrestler"
+  },
+  {
+    "it": "Luce",
+    "en": "Light"
+  },
+  {
+    "it": "Lucentezza",
+    "en": "Shine"
+  },
+  {
+    "it": "Lucertola",
+    "en": "Lizard"
+  },
+  {
+    "it": "Lucchetto",
+    "en": "Padlock"
+  },
+  {
+    "it": "Lucciola",
+    "en": "Firefly"
+  },
+  {
+    "it": "Lucro",
+    "en": "Profit"
+  },
+  {
+    "it": "Luglio",
+    "en": "July"
+  },
+  {
+    "it": "Lumaca",
+    "en": "Snail"
+  },
+  {
+    "it": "Lume",
+    "en": "Lamp"
+  },
+  {
+    "it": "Lungaggine",
+    "en": "Delay"
+  },
+  {
+    "it": "Luogo",
+    "en": "Place"
+  },
+  {
+    "it": "Dovere",
+    "en": "Duty"
+  },
+  {
+    "it": "Voto",
+    "en": "Vote"
+  },
+  {
+    "it": "Legge",
+    "en": "Law"
+  },
+  {
+    "it": "Pace",
+    "en": "Peace"
+  },
+  {
+    "it": "Guerra",
+    "en": "War"
+  },
+  {
+    "it": "a",
+    "en": "Majority"
+  },
+  {
+    "it": "e",
+    "en": "Admin"
+  },
+  {
+    "it": "Potere",
+    "en": "Power"
+  },
+  {
+    "it": "Crisi",
+    "en": "Crisis"
+  },
+  {
+    "it": "Fede",
+    "en": "Faith"
+  },
+  {
+    "it": "Etica",
+    "en": "Ethics"
+  },
+  {
+    "it": "e",
+    "en": "Protest"
+  },
+  {
+    "it": "Vittima",
+    "en": "Victim"
+  },
+  {
+    "it": "Confine",
+    "en": "Border"
+  },
+  {
+    "it": "Inno",
+    "en": "Anthem"
+  },
+  {
+    "it": "Eroe",
+    "en": "Hero"
+  },
+  {
+    "it": "o",
+    "en": "Heating"
+  },
+  {
+    "it": "Rifiuti",
+    "en": "Waste"
+  },
+  {
+    "it": "Dati",
+    "en": "Data"
+  },
+  {
+    "it": "Logica",
+    "en": "Logic"
+  },
+  {
+    "it": "Atomo",
+    "en": "Atom"
+  },
+  {
+    "it": "o",
+    "en": "Update"
+  },
+  {
+    "it": "Onda",
+    "en": "Wave"
+  },
+  {
+    "it": "Orbita",
+    "en": "Orbit"
+  },
+  {
+    "it": "Sonda",
+    "en": "Probe"
+  },
+  {
+    "it": "Microscope",
+    "en": "Robotics"
+  },
+  {
+    "it": "Fiducia",
+    "en": "Trust"
+  },
+  {
+    "it": "Paura",
+    "en": "Fear"
+  },
+  {
+    "it": "Dubbio",
+    "en": "Doubt"
+  },
+  {
+    "it": "Anima",
+    "en": "Soul"
+  },
+  {
+    "it": "o",
+    "en": "Attitude"
+  },
+  {
+    "it": "Invidia",
+    "en": "Envy"
+  },
+  {
+    "it": "Gioia",
+    "en": "Joy"
+  },
+  {
+    "it": "Odio",
+    "en": "Hatred"
+  },
+  {
+    "it": "Amore",
+    "en": "Love"
+  },
+  {
+    "it": "Idea",
+    "en": "Idea"
+  },
+  {
+    "it": "Valore",
+    "en": "Value"
+  },
+  {
+    "it": "Abilità",
+    "en": "Skill"
+  },
+  {
+    "it": "Fortuna",
+    "en": "Luck"
+  },
+  {
+    "it": "Verità",
+    "en": "Truth"
+  },
+  {
+    "it": "Bugia",
+    "en": "Lie"
+  },
+  {
+    "it": "Logica",
+    "en": "Logic"
+  },
+  {
+    "it": "Stress",
+    "en": "Stress"
+  },
+  {
+    "it": "Colpa",
+    "en": "Guilt"
+  },
+  {
+    "it": "Pietà",
+    "en": "Pity"
+  },
+  {
+    "it": "Fiducia",
+    "en": "Trust"
+  },
+  {
+    "it": "Paura",
+    "en": "Fear"
+  },
+  {
+    "it": "Dubbio",
+    "en": "Doubt"
+  },
+  {
+    "it": "Anima",
+    "en": "Soul"
+  },
+  {
+    "it": "o",
+    "en": "Attitude"
+  },
+  {
+    "it": "Invidia",
+    "en": "Envy"
+  },
+  {
+    "it": "Gioia",
+    "en": "Joy"
+  },
+  {
+    "it": "Odio",
+    "en": "Hatred"
+  },
+  {
+    "it": "Amore",
+    "en": "Love"
+  },
+  {
+    "it": "Idea",
+    "en": "Idea"
+  },
+  {
+    "it": "Valore",
+    "en": "Value"
+  },
+  {
+    "it": "Abilità",
+    "en": "Skill"
+  },
+  {
+    "it": "Fortuna",
+    "en": "Luck"
+  },
+  {
+    "it": "Verità",
+    "en": "Truth"
+  },
+  {
+    "it": "Bugia",
+    "en": "Lie"
+  },
+  {
+    "it": "Logica",
+    "en": "Logic"
+  },
+  {
+    "it": "Stress",
+    "en": "Stress"
+  },
+  {
+    "it": "Colpa",
+    "en": "Guilt"
+  },
+  {
+    "it": "Pietà",
+    "en": "Pity"
+  },
+  {
+    "it": "Stampa",
+    "en": "Press"
+  },
+  {
+    "it": "Articolo",
+    "en": "Article"
+  },
+  {
+    "it": "Notizia",
+    "en": "News"
+  },
+  {
+    "it": "Evento",
+    "en": "Event"
+  },
+  {
+    "it": "Stile",
+    "en": "Style"
+  },
+  {
+    "it": "Genere",
+    "en": "Genre"
+  },
+  {
+    "it": "Critica",
+    "en": "Criticism"
+  },
+  {
+    "it": "Dialetto",
+    "en": "Dialect"
+  },
+  {
+    "it": "Poesia",
+    "en": "Poetry"
+  },
+  {
+    "it": "Romanzo",
+    "en": "Novel"
+  },
+  {
+    "it": "Autore",
+    "en": "Author"
+  },
+  {
+    "it": "Trama",
+    "en": "Plot"
+  },
+  {
+    "it": "Simbolo",
+    "en": "Symbol"
+  },
+  {
+    "it": "Museo",
+    "en": "Museum"
+  },
+  {
+    "it": "Teatro",
+    "en": "Theater"
+  },
+  {
+    "it": "Cinema",
+    "en": "Cinema"
+  },
+  {
+    "it": "Regista",
+    "en": "Director"
+  },
+  {
+    "it": "Attore",
+    "en": "Actor"
+  },
+  {
+    "it": "Musica",
+    "en": "Music"
+  },
+  {
+    "it": "Canzone",
+    "en": "Song"
+  },
+  {
+    "it": "Suono",
+    "en": "Sound"
+  },
+  {
+    "it": "Ritmo",
+    "en": "Rhythm"
+  },
+  {
+    "it": "Melodia",
+    "en": "Melody"
+  },
+  {
+    "it": "Voce",
+    "en": "Voice"
+  },
+  {
+    "it": "Canale",
+    "en": "Channel"
+  },
+  {
+    "it": "Serie",
+    "en": "Series"
+  },
+  {
+    "it": "Digitale",
+    "en": "Digital"
+  },
+  {
+    "it": "Profilo",
+    "en": "Profile"
+  },
+  {
+    "it": "Rete",
+    "en": "Network"
+  },
+  {
+    "it": "Blog",
+    "en": "Blog"
+  },
+  {
+    "it": "Privacy",
+    "en": "Privacy"
+  },
+  {
+    "it": "Identità",
+    "en": "Identity"
+  },
+  {
+    "it": "Libertà",
+    "en": "Freedom"
+  },
+  {
+    "it": "Valore",
+    "en": "Value"
+  },
+  {
+    "it": "Usanza",
+    "en": "Custom"
+  },
+  {
+    "it": "Mito",
+    "en": "Myth"
+  },
+  {
+    "it": "Talento",
+    "en": "Talent"
+  },
+  {
+    "it": "Arte",
+    "en": "Art"
+  },
+  {
+    "it": "Scuola",
+    "en": "School"
+  },
+  {
+    "it": "Sedia",
+    "en": "Chair"
+  },
+  {
+    "it": "Sera",
+    "en": "Evening"
+  },
+  {
+    "it": "Strada",
+    "en": "Street"
+  },
+  {
+    "it": "Storia",
+    "en": "History"
+  },
+  {
+    "it": "Tavolo",
+    "en": "Table"
+  },
+  {
+    "it": "Treno",
+    "en": "Train"
+  },
+  {
+    "it": "Tè",
+    "en": "Tea"
+  },
+  {
+    "it": "Tetto",
+    "en": "Roof"
+  },
+  {
+    "it": "Terra",
+    "en": "Earth"
+  },
+  {
+    "it": "Testa",
+    "en": "Head"
+  },
+  {
+    "it": "Torta",
+    "en": "Cake"
+  },
+  {
+    "it": "Tavola",
+    "en": "Table"
+  },
+  {
+    "it": "Tasca",
+    "en": "Pocket"
+  },
+  {
+    "it": "Ufficio",
+    "en": "Office"
+  },
+  {
+    "it": "Uovo",
+    "en": "Egg"
+  },
+  {
+    "it": "Uomo",
+    "en": "Man"
+  },
+  {
+    "it": "Uscita",
+    "en": "Exit"
+  },
+  {
+    "it": "Unghia",
+    "en": "Nail"
+  },
+  {
+    "it": "Valore",
+    "en": "Value"
+  },
+  {
+    "it": "Vento",
+    "en": "Wind"
+  },
+  {
+    "it": "Vetro",
+    "en": "Glass"
+  },
+  {
+    "it": "Viaggio",
+    "en": "Trip"
+  },
+  {
+    "it": "Verità",
+    "en": "Truth"
+  },
+  {
+    "it": "Vacanza",
+    "en": "Holiday"
+  },
+  {
+    "it": "Voce",
+    "en": "Voice"
+  },
+  {
+    "it": "Zaino",
+    "en": "Backpack"
+  },
+  {
+    "it": "Valle",
+    "en": "Valley"
+  },
+  {
+    "it": "Zucchero",
+    "en": "Sugar"
+  },
+  {
+    "it": "Zio",
+    "en": "Uncle"
+  },
+  {
+    "it": "Zia",
+    "en": "Aunt"
+  },
+  {
+    "it": "Zona",
+    "en": "Zone"
+  },
+  {
+    "it": "Mare",
+    "en": "Sea"
+  },
+  {
+    "it": "Monte",
+    "en": "Mountain"
+  },
+  {
+    "it": "Mattino",
+    "en": "Morning"
+  },
+  {
+    "it": "Mattina",
+    "en": "Morning"
+  },
+  {
+    "it": "Cuore",
+    "en": "Heart"
+  },
+  {
+    "it": "Salute",
+    "en": "Health"
+  },
+  {
+    "it": "Fegato",
+    "en": "Liver"
+  },
+  {
+    "it": "Attore",
+    "en": "Actor"
+  },
+  {
+    "it": "Attrice",
+    "en": "Actress"
+  },
+  {
+    "it": "Libro",
+    "en": "Book"
+  },
+  {
+    "it": "Padre",
+    "en": "Father"
+  },
+  {
+    "it": "Pace",
+    "en": "Peace"
+  },
+  {
+    "it": "Sete",
+    "en": "Thirst"
+  },
+  {
+    "it": "Neve",
+    "en": "Snow"
+  },
+  {
+    "it": "Sangue",
+    "en": "Blood"
+  },
+  {
+    "it": "Madre",
+    "en": "Mother"
+  },
+  {
+    "it": "Guerra",
+    "en": "War"
+  },
+  {
+    "it": "Freddo",
+    "en": "Cold"
+  },
+  {
+    "it": "Fuoco",
+    "en": "Fire"
+  },
+  {
+    "it": "Piede",
+    "en": "Foot"
+  },
+  {
+    "it": "Fratello",
+    "en": "Brother"
+  },
+  {
+    "it": "Vita",
+    "en": "Life"
+  },
+  {
+    "it": "Caldo",
+    "en": "Heat"
+  },
+  {
+    "it": "Fumo",
+    "en": "Smoke"
+  },
+  {
+    "it": "Pelle",
+    "en": "Skin"
+  },
+  {
+    "it": "Lingua",
+    "en": "Language"
+  },
+  {
+    "it": "Mondo",
+    "en": "World"
+  },
+  {
+    "it": "Sorella",
+    "en": "Sister"
+  },
+  {
+    "it": "Luce",
+    "en": "Light"
+  },
+  {
+    "it": "Morte",
+    "en": "Death"
+  },
+  {
+    "it": "Fame",
+    "en": "Hunger"
+  },
+  {
+    "it": "Carne",
+    "en": "Meat"
+  },
+  {
+    "it": "Vino",
+    "en": "Wine"
+  },
+  {
+    "it": "Birra",
+    "en": "Beer"
+  },
+  {
+    "it": "Sapone",
+    "en": "Soap"
+  },
+  {
+    "it": "Sale",
+    "en": "Salt"
+  },
+  {
+    "it": "Pepe",
+    "en": "Pepper"
+  },
+  {
+    "it": "Olio",
+    "en": "Oil"
+  },
+  {
+    "it": "Uccello",
+    "en": "Bird"
+  },
+  {
+    "it": "Pesce",
+    "en": "Fish"
+  },
+  {
+    "it": "Cavallo",
+    "en": "Horse"
+  },
+  {
+    "it": "Erba",
+    "en": "Grass"
+  },
+  {
+    "it": "Foglia",
+    "en": "Leaf"
+  },
+  {
+    "it": "Sabbia",
+    "en": "Sand"
+  },
+  {
+    "it": "Pietra",
+    "en": "Stone"
+  },
+  {
+    "it": "Ferro",
+    "en": "Iron"
+  },
+  {
+    "it": "Oro",
+    "en": "Gold"
+  },
+  {
+    "it": "Argento",
+    "en": "Silver"
+  },
+  {
+    "it": "Radio",
+    "en": "Radio"
+  },
+  {
+    "it": "Cinema",
+    "en": "Cinema"
+  },
+  {
+    "it": "Teatro",
+    "en": "Theater"
+  },
+  {
+    "it": "Musica",
+    "en": "Music"
+  },
+  {
+    "it": "Pittura",
+    "en": "Painting"
+  },
+  {
+    "it": "Danza",
+    "en": "Dance"
+  },
+  {
+    "it": "Sport",
+    "en": "Sport"
+  },
+  {
+    "it": "Calcio",
+    "en": "Soccer"
+  },
+  {
+    "it": "Gioco",
+    "en": "Game"
+  },
+  {
+    "it": "Viaggio",
+    "en": "Journey"
+  },
+  {
+    "it": "Guida",
+    "en": "Guide"
+  },
+  {
+    "it": "Mappa",
+    "en": "Map"
+  },
+  {
+    "it": "Biglietto",
+    "en": "Ticket"
+  },
+  {
+    "it": "Prezzo",
+    "en": "Price"
+  },
+  {
+    "it": "Abitudine",
+    "en": "Habit"
+  },
+  {
+    "it": "Acquisto",
+    "en": "Purchase"
+  },
+  {
+    "it": "Addio",
+    "en": "Goodbye"
+  },
+  {
+    "it": "Aiuto",
+    "en": "Help"
+  },
+  {
+    "it": "Albero",
+    "en": "Tree"
+  },
+  {
+    "it": "Alimento",
+    "en": "Food"
+  },
+  {
+    "it": "Allegria",
+    "en": "Joy"
+  },
+  {
+    "it": "Altezza",
+    "en": "Height"
+  },
+  {
+    "it": "Amore",
+    "en": "Love"
+  },
+  {
+    "it": "Angolo",
+    "en": "Corner"
+  },
+  {
+    "it": "Animale",
+    "en": "Animal"
+  },
+  {
+    "it": "Anima",
+    "en": "Soul"
+  },
+  {
+    "it": "Ansia",
+    "en": "Anxiety"
+  },
+  {
+    "it": "Anticipo",
+    "en": "Advance"
+  },
+  {
+    "it": "Aria",
+    "en": "Air"
+  },
+  {
+    "it": "Arma",
+    "en": "Weapon"
+  },
+  {
+    "it": "Arte",
+    "en": "Art"
+  },
+  {
+    "it": "Ascensore",
+    "en": "Elevator"
+  },
+  {
+    "it": "Aspetto",
+    "en": "Aspect"
+  },
+  {
+    "it": "Assaggio",
+    "en": "Taste"
+  },
+  {
+    "it": "Assenza",
+    "en": "Absence"
+  },
+  {
+    "it": "Attività",
+    "en": "Activity"
+  },
+  {
+    "it": "Attore",
+    "en": "Actor"
+  },
+  {
+    "it": "Augurio",
+    "en": "Wish"
+  },
+  {
+    "it": "Aula",
+    "en": "Classroom"
+  },
+  {
+    "it": "Autista",
+    "en": "Driver"
+  },
+  {
+    "it": "Automobill",
+    "en": "Car"
+  },
+  {
+    "it": "Autunno",
+    "en": "Autumn"
+  },
+  {
+    "it": "Avviso",
+    "en": "Notice"
+  },
+  {
+    "it": "Azienda",
+    "en": "Company"
+  },
+  {
+    "it": "Bacio",
+    "en": "Kiss"
+  },
+  {
+    "it": "Bagaglio",
+    "en": "Luggage"
+  },
+  {
+    "it": "Balcone",
+    "en": "Balcony"
+  },
+  {
+    "it": "Ballo",
+    "en": "Dance"
+  },
+  {
+    "it": "Bambino",
+    "en": "Child"
+  },
+  {
+    "it": "Banca",
+    "en": "Bank"
+  },
+  {
+    "it": "Barba",
+    "en": "Beard"
+  },
+  {
+    "it": "Barca",
+    "en": "Boat"
+  },
+  {
+    "it": "Bassifondi",
+    "en": "Slums"
+  },
+  {
+    "it": "Battaglia",
+    "en": "Battle"
+  },
+  {
+    "it": "Bellezza",
+    "en": "Beauty"
+  },
+  {
+    "it": "Benzina",
+    "en": "Gasoline"
+  },
+  {
+    "it": "Bevanda",
+    "en": "Beverage"
+  },
+  {
+    "it": "Bicchiere",
+    "en": "Glass"
+  },
+  {
+    "it": "Biglietto",
+    "en": "Ticket"
+  },
+  {
+    "it": "Binario",
+    "en": "Platform"
+  },
+  {
+    "it": "Biondo",
+    "en": "Blond"
+  },
+  {
+    "it": "Birra",
+    "en": "Beer"
+  },
+  {
+    "it": "Bisogno",
+    "en": "Need"
+  },
+  {
+    "it": "Borsa",
+    "en": "Bag"
+  },
+  {
+    "it": "Bosco",
+    "en": "Woods"
+  },
+  {
+    "it": "Bottiglia",
+    "en": "Bottle"
+  },
+  {
+    "it": "Bottone",
+    "en": "Button"
+  },
+  {
+    "it": "Braccio",
+    "en": "Arm"
+  },
+  {
+    "it": "Braccialetto",
+    "en": "Bracelet"
+  },
+  {
+    "it": "Brivido",
+    "en": "Thrill"
+  },
+  {
+    "it": "Bronzo",
+    "en": "Bronze"
+  },
+  {
+    "it": "Buio",
+    "en": "Darkness"
+  },
+  {
+    "it": "Busta",
+    "en": "Envelope"
+  },
+  {
+    "it": "Caduta",
+    "en": "Fall"
+  },
+  {
+    "it": "Calcio",
+    "en": "Soccer"
+  },
+  {
+    "it": "Calore",
+    "en": "Heat"
+  },
+  {
+    "it": "Calza",
+    "en": "Sock"
+  },
+  {
+    "it": "Camera",
+    "en": "Room"
+  },
+  {
+    "it": "Camicia",
+    "en": "Shirt"
+  },
+  {
+    "it": "Camino",
+    "en": "Fireplace"
+  },
+  {
+    "it": "Cammino",
+    "en": "Path"
+  },
+  {
+    "it": "Campo",
+    "en": "Field"
+  },
+  {
+    "it": "Canale",
+    "en": "Channel"
+  },
+  {
+    "it": "Candela",
+    "en": "Candle"
+  },
+  {
+    "it": "Cane",
+    "en": "Dog"
+  },
+  {
+    "it": "Cantante",
+    "en": "Singer"
+  },
+  {
+    "it": "Canto",
+    "en": "Song"
+  },
+  {
+    "it": "Caos",
+    "en": "Chaos"
+  },
+  {
+    "it": "Capacità",
+    "en": "Capacity"
+  },
+  {
+    "it": "Capello",
+    "en": "Hair"
+  },
+  {
+    "it": "Capitale",
+    "en": "Capital"
+  },
+  {
+    "it": "Capo",
+    "en": "Head/Boss"
+  },
+  {
+    "it": "Carcere",
+    "en": "Prison"
+  },
+  {
+    "it": "Carico",
+    "en": "Load"
+  },
+  {
+    "it": "Carne",
+    "en": "Meat"
+  },
+  {
+    "it": "Carrello",
+    "en": "Cart"
+  },
+  {
+    "it": "Carriera",
+    "en": "Career"
+  },
+  {
+    "it": "Edificio",
+    "en": "Building"
+  },
+  {
+    "it": "Effetto",
+    "en": "Effect"
+  },
+  {
+    "it": "Elenco",
+    "en": "List"
+  },
+  {
+    "it": "Energia",
+    "en": "Energy"
+  },
+  {
+    "it": "Episodio",
+    "en": "Episode"
+  },
+  {
+    "it": "Epoca",
+    "en": "Epoch/Era"
+  },
+  {
+    "it": "Equilibrio",
+    "en": "Balance"
+  },
+  {
+    "it": "Erba",
+    "en": "Grass"
+  },
+  {
+    "it": "Eredità",
+    "en": "Inheritance"
+  },
+  {
+    "it": "Fango",
+    "en": "Mud"
+  },
+  {
+    "it": "Fante",
+    "en": "Infantryman"
+  },
+  {
+    "it": "Faro",
+    "en": "Lighthouse"
+  },
+  {
+    "it": "Fascino",
+    "en": "Charm"
+  },
+  {
+    "it": "Fastidio",
+    "en": "Bother"
+  },
+  {
+    "it": "Favore",
+    "en": "Favor"
+  },
+  {
+    "it": "Ferro",
+    "en": "Iron"
+  },
+  {
+    "it": "Festival",
+    "en": "Festival"
+  },
+  {
+    "it": "Fabbrica",
+    "en": "Factory"
+  },
+  {
+    "it": "Facoltà",
+    "en": "Faculty"
+  },
+  {
+    "it": "Fessura",
+    "en": "Slot/Crack"
+  },
+  {
+    "it": "Fiamma",
+    "en": "Flame"
+  },
+  {
+    "it": "Fiducia",
+    "en": "Trust"
+  },
+  {
+    "it": "Faccia",
+    "en": "Face"
+  },
+  {
+    "it": "Figura",
+    "en": "Figure"
+  },
+  {
+    "it": "Giocattolo",
+    "en": "Toy"
+  },
+  {
+    "it": "Fila",
+    "en": "Row"
+  },
+  {
+    "it": "Firma",
+    "en": "Signature"
+  },
+  {
+    "it": "Ghiaccio",
+    "en": "Ice"
+  },
+  {
+    "it": "Gioiello",
+    "en": "Jewel"
+  },
+  {
+    "it": "Girasole",
+    "en": "Sunflower"
+  },
+  {
+    "it": "Giro",
+    "en": "Turn/Tour"
+  },
+  {
+    "it": "Giudizio",
+    "en": "Judgment"
+  },
+  {
+    "it": "Gomito",
+    "en": "Elbow"
+  },
+  {
+    "it": "Gradino",
+    "en": "Step"
+  },
+  {
+    "it": "Grado",
+    "en": "Degree"
+  },
+  {
+    "it": "Graffio",
+    "en": "Scratch"
+  },
+  {
+    "it": "Gabbia",
+    "en": "Cage"
+  },
+  {
+    "it": "Galleria",
+    "en": "Gallery"
+  },
+  {
+    "it": "Gara",
+    "en": "Race"
+  },
+  {
+    "it": "Gioventù",
+    "en": "Youth"
+  },
+  {
+    "it": "Gita",
+    "en": "Trip"
+  },
+  {
+    "it": "Gloria",
+    "en": "Glory"
+  },
+  {
+    "it": "Importo",
+    "en": "Amount"
+  },
+  {
+    "it": "Impronta",
+    "en": "Print/Trace"
+  },
+  {
+    "it": "Indirizzo",
+    "en": "Address"
+  },
+  {
+    "it": "Indizio",
+    "en": "Clue"
+  },
+  {
+    "it": "Inferno",
+    "en": "Hell"
+  },
+  {
+    "it": "Inganno",
+    "en": "Deceit"
+  },
+  {
+    "it": "Ingresso",
+    "en": "Entrance"
+  },
+  {
+    "it": "Lampada",
+    "en": "Lamp"
+  },
+  {
+    "it": "Lana",
+    "en": "Wool"
+  },
+  {
+    "it": "Larghezza",
+    "en": "Width"
+  },
+  {
+    "it": "Lastra",
+    "en": "Slab"
+  },
+  {
+    "it": "Lode",
+    "en": "Praise"
+  },
+  {
+    "it": "Lucciola",
+    "en": "Firefly"
+  },
+  {
+    "it": "Lunghezza",
+    "en": "Length"
+  },
+  {
+    "it": "Lussuria",
+    "en": "Lust"
+  },
+  {
+    "it": "Lutto",
+    "en": "Mourning"
+  },
+  {
+    "it": "Magia",
+    "en": "Magic"
+  },
+  {
+    "it": "Maglia",
+    "en": "Shirt/Jersey"
+  },
+  {
+    "it": "Malattia",
+    "en": "Illness"
+  },
+  {
+    "it": "Male",
+    "en": "Evil/Pain"
+  },
+  {
+    "it": "Malizia",
+    "en": "Malice"
+  },
+  {
+    "it": "Mancanza",
+    "en": "Lack"
+  },
+  {
+    "it": "Mandato",
+    "en": "Mandate"
+  },
+  {
+    "it": "Manica",
+    "en": "Sleeve"
+  },
+  {
+    "it": "Manico",
+    "en": "Handle"
+  },
+  {
+    "it": "Mano",
+    "en": "Hand"
+  },
+  {
+    "it": "Mappa",
+    "en": "Map"
+  },
+  {
+    "it": "Mare",
+    "en": "Sea"
+  },
+  {
+    "it": "Marito",
+    "en": "Husband"
+  },
+  {
+    "it": "Marmo",
+    "en": "Marble"
+  },
+  {
+    "it": "Martello",
+    "en": "Hammer"
+  },
+  {
+    "it": "Maschera",
+    "en": "Mask"
+  },
+  {
+    "it": "Massa",
+    "en": "Mass"
+  },
+  {
+    "it": "Mattina",
+    "en": "Morning"
+  },
+  {
+    "it": "Mattone",
+    "en": "Brick"
+  },
+  {
+    "it": "Medaglia",
+    "en": "Medal"
+  },
+  {
+    "it": "Medicina",
+    "en": "Medicine"
+  },
+  {
+    "it": "Memoria",
+    "en": "Memory"
+  },
+  {
+    "it": "Mente",
+    "en": "Mind"
+  },
+  {
+    "it": "Mercato",
+    "en": "Market"
+  },
+  {
+    "it": "Accento",
+    "en": "Accent"
+  },
+  {
+    "it": "Accordo",
+    "en": "Agreement"
+  },
+  {
+    "it": "Aceto",
+    "en": "Vinegar"
+  },
+  {
+    "it": "Agente",
+    "en": "Agent"
+  },
+  {
+    "it": "Albergo",
+    "en": "Hotel"
+  },
+  {
+    "it": "Alimento",
+    "en": "Food"
+  },
+  {
+    "it": "Allenamento",
+    "en": "Training"
+  },
+  {
+    "it": "Altezza",
+    "en": "Height"
+  },
+  {
+    "it": "Angolo",
+    "en": "Corner"
+  },
+  {
+    "it": "Anima",
+    "en": "Soul"
+  },
+  {
+    "it": "Anticipo",
+    "en": "Advance"
+  },
+  {
+    "it": "Apparecchio",
+    "en": "Device"
+  },
+  {
+    "it": "Attività",
+    "en": "Activity"
+  },
+  {
+    "it": "Attrezzo",
+    "en": "Tool"
+  },
+  {
+    "it": "Assegno",
+    "en": "Check"
+  },
+  {
+    "it": "Augurio",
+    "en": "Wish"
+  },
+  {
+    "it": "Autista",
+    "en": "Driver"
+  },
+  {
+    "it": "Bagaglio",
+    "en": "Luggage"
+  },
+  {
+    "it": "Balcone",
+    "en": "Balcony"
+  },
+  {
+    "it": "Banca",
+    "en": "Bank"
+  },
+  {
+    "it": "Base",
+    "en": "Base"
+  },
+  {
+    "it": "Battaglia",
+    "en": "Battle"
+  },
+  {
+    "it": "Bellezza",
+    "en": "Beauty"
+  },
+  {
+    "it": "Benzina",
+    "en": "Gasoline"
+  },
+  {
+    "it": "Bevanda",
+    "en": "Beverage"
+  },
+  {
+    "it": "Bordo",
+    "en": "Border"
+  },
+  {
+    "it": "Biglietto",
+    "en": "Ticket"
+  },
+  {
+    "it": "Blocco",
+    "en": "Block"
+  },
+  {
+    "it": "Bolla",
+    "en": "Bubble"
+  },
+  {
+    "it": "Bosco",
+    "en": "Woods"
+  },
+  {
+    "it": "Bottiglia",
+    "en": "Bottle"
+  },
+  {
+    "it": "Bottone",
+    "en": "Button"
+  },
+  {
+    "it": "Braccialetto",
+    "en": "Bracelet"
+  },
+  {
+    "it": "Caduta",
+    "en": "Fall"
+  },
+  {
+    "it": "Calore",
+    "en": "Heat"
+  },
+  {
+    "it": "Camera",
+    "en": "Room"
+  },
+  {
+    "it": "Camino",
+    "en": "Fireplace"
+  },
+  {
+    "it": "Canale",
+    "en": "Channel"
+  },
+  {
+    "it": "Candela",
+    "en": "Candle"
+  },
+  {
+    "it": "Carne",
+    "en": "Meat"
+  },
+  {
+    "it": "Capitale",
+    "en": "Capital"
+  },
+  {
+    "it": "Carattere",
+    "en": "Character"
+  },
+  {
+    "it": "Carico",
+    "en": "Load"
+  },
+  {
+    "it": "Casco",
+    "en": "Helmet"
+  },
+  {
+    "it": "Carrello",
+    "en": "Cart"
+  },
+  {
+    "it": "Carriera",
+    "en": "Career"
+  },
+  {
+    "it": "Cartella",
+    "en": "Folder"
+  },
+  {
+    "it": "Cartone",
+    "en": "Cardboard"
+  },
+  {
+    "it": "Catena",
+    "en": "Chain"
+  },
+  {
+    "it": "Causa",
+    "en": "Cause"
+  },
+  {
+    "it": "Cavaliere",
+    "en": "Knight"
+  },
+  {
+    "it": "Cavo",
+    "en": "Cable"
+  },
+  {
+    "it": "Cento",
+    "en": "Hundred"
+  },
+  {
+    "it": "Cerchio",
+    "en": "Circle"
+  },
+  {
+    "it": "Certezza",
+    "en": "Certainty"
+  },
+  {
+    "it": "Chilo",
+    "en": "Kilo"
+  },
+  {
+    "it": "Chitarra",
+    "en": "Guitar"
+  },
+  {
+    "it": "Cioccolato",
+    "en": "Chocolate"
+  },
+  {
+    "it": "Cipolla",
+    "en": "Onion"
+  },
+  {
+    "it": "Circuito",
+    "en": "Circuit"
+  },
+  {
+    "it": "Classe",
+    "en": "Class"
+  },
+  {
+    "it": "Coda",
+    "en": "Tail/Line"
+  },
+  {
+    "it": "Colazione",
+    "en": "Breakfast"
+  },
+  {
+    "it": "Collina",
+    "en": "Hill"
+  },
+  {
+    "it": "Colore",
+    "en": "Color"
+  },
+  {
+    "it": "Colpa",
+    "en": "Guilt/Fault"
+  },
+  {
+    "it": "Colpo",
+    "en": "Blow/Shot"
+  },
+  {
+    "it": "Coltello",
+    "en": "Knife"
+  },
+  {
+    "it": "Comune",
+    "en": "Municipality"
+  },
+  {
+    "it": "Condizione",
+    "en": "Condition"
+  },
+  {
+    "it": "Confine",
+    "en": "Border"
+  },
+  {
+    "it": "Conoscenza",
+    "en": "Knowledge"
+  },
+  {
+    "it": "Consiglio",
+    "en": "Advice"
+  },
+  {
+    "it": "Contatto",
+    "en": "Contact"
+  },
+  {
+    "it": "Contesto",
+    "en": "Context"
+  },
+  {
+    "it": "Contratto",
+    "en": "Contract"
+  },
+  {
+    "it": "Controllo",
+    "en": "Control"
+  },
+  {
+    "it": "Corda",
+    "en": "Rope"
+  },
+  {
+    "it": "Cornice",
+    "en": "Frame"
+  },
+  {
+    "it": "Corrente",
+    "en": "Current"
+  },
+  {
+    "it": "Corsa",
+    "en": "Run/Race"
+  },
+  {
+    "it": "Cottura",
+    "en": "Cooking"
+  },
+  {
+    "it": "Cucchiaio",
+    "en": "Spoon"
+  },
+  {
+    "it": "Cuscino",
+    "en": "Pillow"
+  },
+  {
+    "it": "Danno",
+    "en": "Damage"
+  },
+  {
+    "it": "Dato",
+    "en": "Data"
+  },
+  {
+    "it": "Debito",
+    "en": "Debt"
+  },
+  {
+    "it": "Decennio",
+    "en": "Decade"
+  },
+  {
+    "it": "Delitto",
+    "en": "Crime"
+  },
+  {
+    "it": "Denaro",
+    "en": "Money"
+  },
+  {
+    "it": "Dente",
+    "en": "Tooth"
+  },
+  {
+    "it": "Deposito",
+    "en": "Deposit"
+  },
+  {
+    "it": "Deserto",
+    "en": "Desert"
+  },
+  {
+    "it": "Desiderio",
+    "en": "Desire"
+  },
+  {
+    "it": "Dettaglio",
+    "en": "Detail"
+  },
+  {
+    "it": "Difesa",
+    "en": "Defense"
+  },
+  {
+    "it": "Diritto",
+    "en": "Right/Law"
+  },
+  {
+    "it": "Disastro",
+    "en": "Disaster"
+  },
+  {
+    "it": "Disco",
+    "en": "Disk/Record"
+  },
+  {
+    "it": "Discorso",
+    "en": "Speech"
+  },
+  {
+    "it": "Distanza",
+    "en": "Distance"
+  },
+  {
+    "it": "Dito",
+    "en": "Finger"
+  },
+  {
+    "it": "Doccia",
+    "en": "Shower"
+  },
+  {
+    "it": "Documento",
+    "en": "Document"
+  },
+  {
+    "it": "Dolore",
+    "en": "Pain"
+  },
+  {
+    "it": "Domanda",
+    "en": "Question"
+  },
+  {
+    "it": "Dono",
+    "en": "Gift"
+  },
+  {
+    "it": "Dose",
+    "en": "Dose"
+  },
+  {
+    "it": "Dovere",
+    "en": "Duty"
+  },
+  {
+    "it": "Dubbio",
+    "en": "Doubt"
+  },
+  {
+    "it": "Durata",
+    "en": "Duration"
+  },
+  {
+    "it": "Edizione",
+    "en": "Edition"
+  },
+  {
+    "it": "Effetto",
+    "en": "Effect"
+  },
+  {
+    "it": "Elenco",
+    "en": "List"
+  },
+  {
+    "it": "Energia",
+    "en": "Energy"
+  },
+  {
+    "it": "Entrata",
+    "en": "Entrance"
+  },
+  {
+    "it": "Errore",
+    "en": "Error"
+  },
+  {
+    "it": "Esame",
+    "en": "Exam"
+  },
+  {
+    "it": "Esempio",
+    "en": "Example"
+  },
+  {
+    "it": "Esperienza",
+    "en": "Experience"
+  },
+  {
+    "it": "Esperto",
+    "en": "Expert"
+  },
+  {
+    "it": "Esterno",
+    "en": "Exterior"
+  },
+  {
+    "it": "Estate",
+    "en": "Summer"
+  },
+  {
+    "it": "Età",
+    "en": "Age"
+  },
+  {
+    "it": "Etichetta",
+    "en": "Label"
+  },
+  {
+    "it": "Evento",
+    "en": "Event"
+  },
+  {
+    "it": "Faccia",
+    "en": "Face"
+  },
+  {
+    "it": "Fame",
+    "en": "Hunger"
+  },
+  {
+    "it": "Famiglia",
+    "en": "Family"
+  },
+  {
+    "it": "Fascino",
+    "en": "Charm"
+  },
+  {
+    "it": "Fattoria",
+    "en": "Farm"
+  },
+  {
+    "it": "Favore",
+    "en": "Favor"
+  },
+  {
+    "it": "Fede",
+    "en": "Faith/Ring"
+  },
+  {
+    "it": "Ferita",
+    "en": "Wound"
+  },
+  {
+    "it": "Festa",
+    "en": "Party"
+  },
+  {
+    "it": "Fiaba",
+    "en": "Fairy tale"
+  },
+  {
+    "it": "Fiducia",
+    "en": "Trust"
+  },
+  {
+    "it": "Figlio",
+    "en": "Son"
+  },
+  {
+    "it": "Figura",
+    "en": "Figure"
+  },
+  {
+    "it": "Filo",
+    "en": "Thread"
+  },
+  {
+    "it": "Finanza",
+    "en": "Finance"
+  },
+  {
+    "it": "Fine",
+    "en": "End"
+  },
+  {
+    "it": "Finestra",
+    "en": "Window"
+  },
+  {
+    "it": "Firma",
+    "en": "Signature"
+  },
+  {
+    "it": "Fiume",
+    "en": "River"
+  },
+  {
+    "it": "Fiore",
+    "en": "Flower"
+  },
+  {
+    "it": "Fisica",
+    "en": "Physics"
+  },
+  {
+    "it": "Foto",
+    "en": "Photo"
+  },
+  {
+    "it": "Frase",
+    "en": "Sentence"
+  },
+  {
+    "it": "Frutto",
+    "en": "Fruit"
+  },
+  {
+    "it": "Fuoco",
+    "en": "Fire"
+  },
+  {
+    "it": "Furto",
+    "en": "Theft"
+  },
+  {
+    "it": "Futuro",
+    "en": "Future"
+  },
+  {
+    "it": "Gabbia",
+    "en": "Cage"
+  },
+  {
+    "it": "Gamba",
+    "en": "Leg"
+  },
+  {
+    "it": "Gamma",
+    "en": "Range"
+  },
+  {
+    "it": "Garanzia",
+    "en": "Guarantee"
+  },
+  {
+    "it": "Gara",
+    "en": "Race"
+  },
+  {
+    "it": "Giardino",
+    "en": "Garden"
+  },
+  {
+    "it": "Gatto",
+    "en": "Cat"
+  },
+  {
+    "it": "Genere",
+    "en": "Gender"
+  },
+  {
+    "it": "Ghiaccio",
+    "en": "Ice"
+  },
+  {
+    "it": "Ginocchio",
+    "en": "Knee"
+  },
+  {
+    "it": "Genitore",
+    "en": "Parent"
+  },
+  {
+    "it": "Gioco",
+    "en": "Game"
+  },
+  {
+    "it": "Giro",
+    "en": "Turn"
+  },
+  {
+    "it": "Gente",
+    "en": "People"
+  },
+  {
+    "it": "Gioia",
+    "en": "Joy"
+  },
+  {
+    "it": "Giudice",
+    "en": "Judge"
+  },
+  {
+    "it": "Giornale",
+    "en": "Newspaper"
+  },
+  {
+    "it": "Giudizio",
+    "en": "Judgment"
+  },
+  {
+    "it": "Gesto",
+    "en": "Gesture"
+  },
+  {
+    "it": "Giorno",
+    "en": "Day"
+  },
+  {
+    "it": "Giustizia",
+    "en": "Justice"
+  },
+  {
+    "it": "Gloria",
+    "en": "Glory"
+  },
+  {
+    "it": "Gola",
+    "en": "Throat"
+  },
+  {
+    "it": "Gomma",
+    "en": "Rubber"
+  },
+  {
+    "it": "Gonna",
+    "en": "Skirt"
+  },
+  {
+    "it": "Goccia",
+    "en": "Drop"
+  },
+  {
+    "it": "Grado",
+    "en": "Degree"
+  },
+  {
+    "it": "Grafico",
+    "en": "Chart"
+  },
+  {
+    "it": "Gruppo",
+    "en": "Group"
+  },
+  {
+    "it": "Guanto",
+    "en": "Glove"
+  },
+  {
+    "it": "Guardia",
+    "en": "Guard"
+  },
+  {
+    "it": "Guerra",
+    "en": "War"
+  },
+  {
+    "it": "Guida",
+    "en": "Guide"
+  },
+  {
+    "it": "Gusto",
+    "en": "Taste"
+  },
+  {
+    "it": "Idraulico",
+    "en": "Plumber"
+  },
+  {
+    "it": "Ieri",
+    "en": "Yesterday"
+  },
+  {
+    "it": "Isola",
+    "en": "Island"
+  },
+  {
+    "it": "Impatto",
+    "en": "Impact"
+  },
+  {
+    "it": "Impero",
+    "en": "Empire"
+  },
+  {
+    "it": "Impianto",
+    "en": "System"
+  },
+  {
+    "it": "Impresa",
+    "en": "Enterprise"
+  },
+  {
+    "it": "Impronta",
+    "en": "Print"
+  },
+  {
+    "it": "Incendio",
+    "en": "Fire"
+  },
+  {
+    "it": "Indice",
+    "en": "Index"
+  },
+  {
+    "it": "Indirizzo",
+    "en": "Address"
+  },
+  {
+    "it": "Indizio",
+    "en": "Clue"
+  },
+  {
+    "it": "Industria",
+    "en": "Industry"
+  },
+  {
+    "it": "Inferno",
+    "en": "Hell"
+  },
+  {
+    "it": "Influenza",
+    "en": "Influence"
+  },
+  {
+    "it": "Ingegno",
+    "en": "Ingenuity"
+  },
+  {
+    "it": "Ingresso",
+    "en": "Entrance"
+  },
+  {
+    "it": "Inizio",
+    "en": "Start"
+  },
+  {
+    "it": "Insieme",
+    "en": "Whole"
+  },
+  {
+    "it": "Insulto",
+    "en": "Insult"
+  },
+  {
+    "it": "Intenzione",
+    "en": "Intent"
+  },
+  {
+    "it": "Interesse",
+    "en": "Interest"
+  },
+  {
+    "it": "Interno",
+    "en": "Interior"
+  },
+  {
+    "it": "Interprete",
+    "en": "Interpreter"
+  },
+  {
+    "it": "Intervallo",
+    "en": "Interval"
+  },
+  {
+    "it": "Inverno",
+    "en": "Winter"
+  },
+  {
+    "it": "Invito",
+    "en": "Invitation"
+  },
+  {
+    "it": "Ipotesi",
+    "en": "Hypothesis"
+  },
+  {
+    "it": "Ironia",
+    "en": "Irony"
+  },
+  {
+    "it": "Istante",
+    "en": "Instant"
+  },
+  {
+    "it": "Istituto",
+    "en": "Institute"
+  },
+  {
+    "it": "Italia",
+    "en": "Italy"
+  },
+  {
+    "it": "Labirinto",
+    "en": "Labyrinth"
+  },
+  {
+    "it": "Labbro",
+    "en": "Lip"
+  },
+  {
+    "it": "Lacrima",
+    "en": "Tear"
+  },
+  {
+    "it": "Ladro",
+    "en": "Thief"
+  },
+  {
+    "it": "Lampada",
+    "en": "Lamp"
+  },
+  {
+    "it": "Lancio",
+    "en": "Launch"
+  },
+  {
+    "it": "Lato",
+    "en": "Side"
+  },
+  {
+    "it": "Latte",
+    "en": "Milk"
+  },
+  {
+    "it": "Laurea",
+    "en": "Degree"
+  },
+  {
+    "it": "Lavoro",
+    "en": "Work"
+  },
+  {
+    "it": "Legge",
+    "en": "Law"
+  },
+  {
+    "it": "Legame",
+    "en": "Bond"
+  },
+  {
+    "it": "Lettura",
+    "en": "Reading"
+  },
+  {
+    "it": "Letto",
+    "en": "Bed"
+  },
+  {
+    "it": "Lezione",
+    "en": "Lesson"
+  },
+  {
+    "it": "Abitudine",
+    "en": "Habit"
+  },
+  {
+    "it": "Analisi",
+    "en": "Analysis"
+  },
+  {
+    "it": "Angoscia",
+    "en": "Anguish"
+  },
+  {
+    "it": "Argomento",
+    "en": "Topic"
+  },
+  {
+    "it": "Assenza",
+    "en": "Absence"
+  },
+  {
+    "it": "Atto",
+    "en": "Act/Deed"
+  },
+  {
+    "it": "Autore",
+    "en": "Author"
+  },
+  {
+    "it": "Autorità",
+    "en": "Authority"
+  },
+  {
+    "it": "Avventura",
+    "en": "Adventure"
+  },
+  {
+    "it": "Azione",
+    "en": "Action"
+  },
+  {
+    "it": "Bacino",
+    "en": "Basin"
+  },
+  {
+    "it": "Bambino",
+    "en": "Child"
+  },
+  {
+    "it": "Bilancio",
+    "en": "Budget"
+  },
+  {
+    "it": "Bisogno",
+    "en": "Need"
+  },
+  {
+    "it": "Brivido",
+    "en": "Thrill"
+  },
+  {
+    "it": "Caccia",
+    "en": "Hunt"
+  },
+  {
+    "it": "Calma",
+    "en": "Calm"
+  },
+  {
+    "it": "Cambio",
+    "en": "Change"
+  },
+  {
+    "it": "Cammino",
+    "en": "Path"
+  },
+  {
+    "it": "Campo",
+    "en": "Field"
+  },
+  {
+    "it": "Cancello",
+    "en": "Gate"
+  },
+  {
+    "it": "Canto",
+    "en": "Song"
+  },
+  {
+    "it": "Capo",
+    "en": "Boss/Head"
+  },
+  {
+    "it": "Caso",
+    "en": "Case/Chance"
+  },
+  {
+    "it": "Cattiveria",
+    "en": "Malice"
+  },
+  {
+    "it": "Cella",
+    "en": "Cell"
+  },
+  {
+    "it": "Cercatore",
+    "en": "Seeker"
+  },
+  {
+    "it": "Cifra",
+    "en": "Digit/Figure"
+  },
+  {
+    "it": "Cigno",
+    "en": "Swan"
+  },
+  {
+    "it": "Codice",
+    "en": "Code"
+  },
+  {
+    "it": "Conflitto",
+    "en": "Conflict"
+  },
+  {
+    "it": "Congresso",
+    "en": "Congress"
+  },
+  {
+    "it": "Contorno",
+    "en": "Side dish"
+  },
+  {
+    "it": "Coppia",
+    "en": "Couple"
+  },
+  {
+    "it": "Costa",
+    "en": "Coast"
+  },
+  {
+    "it": "Creatura",
+    "en": "Creature"
+  },
+  {
+    "it": "Credito",
+    "en": "Credit"
+  },
+  {
+    "it": "Crema",
+    "en": "Cream"
+  },
+  {
+    "it": "Crescita",
+    "en": "Growth"
+  },
+  {
+    "it": "Crisi",
+    "en": "Crisis"
+  },
+  {
+    "it": "Critica",
+    "en": "Criticism"
+  },
+  {
+    "it": "Croce",
+    "en": "Cross"
+  },
+  {
+    "it": "Cultura",
+    "en": "Culture"
+  },
+  {
+    "it": "Cura",
+    "en": "Care"
+  },
+  {
+    "it": "Curiosità",
+    "en": "Curiosity"
+  },
+  {
+    "it": "Danza",
+    "en": "Dance"
+  },
+  {
+    "it": "Decreto",
+    "en": "Decree"
+  },
+  {
+    "it": "Destino",
+    "en": "Fate"
+  },
+  {
+    "it": "Dieta",
+    "en": "Diet"
+  },
+  {
+    "it": "Disordine",
+    "en": "Disorder"
+  },
+  {
+    "it": "Dispositivo",
+    "en": "Device"
+  },
+  {
+    "it": "Divertimento",
+    "en": "Fun"
+  },
+  {
+    "it": "Divisione",
+    "en": "Division"
+  },
+  {
+    "it": "Domenica",
+    "en": "Sunday"
+  },
+  {
+    "it": "rina",
+    "en": "Doctrine"
+  },
+  {
+    "it": "Duca",
+    "en": "Duke"
+  },
+  {
+    "it": "Eccesso",
+    "en": "Excess"
+  },
+  {
+    "it": "Efficacia",
+    "en": "Efficacy"
+  },
+  {
+    "it": "Elemento",
+    "en": "Element"
+  },
+  {
+    "it": "Elezione",
+    "en": "Election"
+  },
+  {
+    "it": "Ente",
+    "en": "Entity"
+  },
+  {
+    "it": "Epoca",
+    "en": "Era"
+  },
+  {
+    "it": "Equipaggio",
+    "en": "Crew"
+  },
+  {
+    "it": "Esilio",
+    "en": "Exile"
+  },
+  {
+    "it": "Esito",
+    "en": "Outcome"
+  },
+  {
+    "it": "Estetica",
+    "en": "Aesthetics"
+  },
+  {
+    "it": "Esterno",
+    "en": "Exterior"
+  },
+  {
+    "it": "Eternità",
+    "en": "Eternity"
+  },
+  {
+    "it": "Etica",
+    "en": "Ethics"
+  },
+  {
+    "it": "Europa",
+    "en": "Europe"
+  },
+  {
+    "it": "Fama",
+    "en": "Fame"
+  },
+  {
+    "it": "Fantasma",
+    "en": "Ghost"
+  },
+  {
+    "it": "Fascicolo",
+    "en": "File"
+  },
+  {
+    "it": "Fatica",
+    "en": "Fatigue"
+  },
+  {
+    "it": "Fede",
+    "en": "Faith"
+  },
+  {
+    "it": "Fermata",
+    "en": "Stop"
+  },
+  {
+    "it": "Fessura",
+    "en": "Slot/Crack"
+  },
+  {
+    "it": "Festività",
+    "en": "Holiday"
+  },
+  {
+    "it": "Fiamma",
+    "en": "Flame"
+  },
+  {
+    "it": "Fidanzato",
+    "en": "Fiancé"
+  },
+  {
+    "it": "Filtro",
+    "en": "Filter"
+  },
+  {
+    "it": "Fisica",
+    "en": "Physics"
+  },
+  {
+    "it": "Fonte",
+    "en": "Source"
+  },
+  {
+    "it": "Forno",
+    "en": "Oven"
+  },
+  {
+    "it": "Fossa",
+    "en": "Pit/Grave"
+  },
+  {
+    "it": "Fragilità",
+    "en": "Fragility"
+  },
+  {
+    "it": "Fronte",
+    "en": "Front"
+  },
+  {
+    "it": "Frontiera",
+    "en": "Frontier"
+  },
+  {
+    "it": "Fuga",
+    "en": "Escape"
+  },
+  {
+    "it": "Funzionario",
+    "en": "Officer"
+  },
+  {
+    "it": "Gabbia",
+    "en": "Cage"
+  },
+  {
+    "it": "Gamma",
+    "en": "Range"
+  },
+  {
+    "it": "Gennaio",
+    "en": "January"
+  },
+  {
+    "it": "Geografia",
+    "en": "Geography"
+  },
+  {
+    "it": "Gesto",
+    "en": "Gesture"
+  },
+  {
+    "it": "Giornata",
+    "en": "Daytime"
+  },
+  {
+    "it": "Giovane",
+    "en": "Youth"
+  },
+  {
+    "it": "Gioventù",
+    "en": "Youth"
+  },
+  {
+    "it": "Giugno",
+    "en": "June"
+  },
+  {
+    "it": "Golfo",
+    "en": "Gulf"
+  },
+  {
+    "it": "Gradino",
+    "en": "Step"
+  },
+  {
+    "it": "Graffio",
+    "en": "Scratch"
+  },
+  {
+    "it": "Grano",
+    "en": "Grain"
+  },
+  {
+    "it": "Grappolo",
+    "en": "Bunch"
+  },
+  {
+    "it": "Grembiule",
+    "en": "Apron"
+  },
+  {
+    "it": "Grido",
+    "en": "Shout"
+  },
+  {
+    "it": "Grinta",
+    "en": "Grit"
+  },
+  {
+    "it": "Grondaia",
+    "en": "Gutter"
+  },
+  {
+    "it": "Grotta",
+    "en": "Cave"
+  },
+  {
+    "it": "Guadagno",
+    "en": "Gain"
+  },
+  {
+    "it": "Guancia",
+    "en": "Cheek"
+  },
+  {
+    "it": "Guanto",
+    "en": "Glove"
+  },
+  {
+    "it": "Guarnizione",
+    "en": "Garnish"
+  },
+  {
+    "it": "Guasto",
+    "en": "Fault"
+  },
+  {
+    "it": "Guscio",
+    "en": "Shell"
+  },
+  {
+    "it": "Icona",
+    "en": "Icon"
+  },
+  {
+    "it": "Identità",
+    "en": "Identity"
+  },
+  {
+    "it": "Ideologia",
+    "en": "Ideology"
+  },
+  {
+    "it": "Idolo",
+    "en": "Idol"
+  },
+  {
+    "it": "Illusione",
+    "en": "Illusion"
+  },
+  {
+    "it": "Imbroglio",
+    "en": "Cheat"
+  },
+  {
+    "it": "Immagine",
+    "en": "Image"
+  },
+  {
+    "it": "Immunità",
+    "en": "Immunity"
+  },
+  {
+    "it": "Impasto",
+    "en": "Dough"
+  },
+  {
+    "it": "Importo",
+    "en": "Amount"
+  },
+  {
+    "it": "Imposta",
+    "en": "Tax"
+  },
+  {
+    "it": "Incarico",
+    "en": "Task"
+  },
+  {
+    "it": "Inchiesta",
+    "en": "Inquiry"
+  },
+  {
+    "it": "Incubo",
+    "en": "Nightmare"
+  },
+  {
+    "it": "Indagine",
+    "en": "Survey"
+  },
+  {
+    "it": "Indolenza",
+    "en": "Sloth"
+  },
+  {
+    "it": "Vedere",
+    "en": "See"
+  },
+  {
+    "it": "Vivere",
+    "en": "Live"
+  },
+  {
+    "it": "Cadere",
+    "en": "Fall"
+  },
+  {
+    "it": "Aprire",
+    "en": "Open"
+  },
+  {
+    "it": "Offrire",
+    "en": "Offer"
+  },
+  {
+    "it": "Morire",
+    "en": "Die"
+  },
+  {
+    "it": "Morire",
+    "en": "Die"
+  },
+  {
+    "it": "Unire",
+    "en": "Unite"
+  },
+  {
+    "it": "Evitare",
+    "en": "Avoid"
+  },
+  {
+    "it": "Durare",
+    "en": "Last"
+  },
+  {
+    "it": "Friggere",
+    "en": "Fry"
+  },
+  {
+    "it": "Mordere",
+    "en": "Bite"
+  },
+  {
+    "it": "Sedere",
+    "en": "Sit"
+  },
+  {
+    "it": "Uccidere",
+    "en": "Kill"
+  },
+  {
+    "it": "Battere",
+    "en": "Hit"
+  },
+  {
+    "it": "Elencare",
+    "en": "List"
+  },
+  {
+    "it": "Fallire",
+    "en": "Fail"
+  },
+  {
+    "it": "Nutrire",
+    "en": "Feed"
+  },
+  {
+    "it": "Oliare",
+    "en": "Oil"
+  },
+  {
+    "it": "Scavare",
+    "en": "Dig"
+  },
+  {
+    "it": "Sollevare",
+    "en": "Lift"
+  },
+  {
+    "it": "Stirare",
+    "en": "Iron"
+  },
+  {
+    "it": "Tirare",
+    "en": "Pull"
+  },
+  {
+    "it": "Votare",
+    "en": "Vote"
+  },
+  {
+    "it": "Visitare",
+    "en": "Visit"
+  },
+  {
+    "it": "Elencare",
+    "en": "List"
+  },
+  {
+    "it": "Fallire",
+    "en": "Fail"
+  },
+  {
+    "it": "Nutrire",
+    "en": "Feed"
+  },
+  {
+    "it": "Oliare",
+    "en": "Oil"
+  },
+  {
+    "it": "Scavare",
+    "en": "Dig"
+  },
+  {
+    "it": "Sollevare",
+    "en": "Lift"
+  },
+  {
+    "it": "Stirare",
+    "en": "Iron"
+  },
+  {
+    "it": "Tirare",
+    "en": "Pull"
+  },
+  {
+    "it": "Votare",
+    "en": "Vote"
+  },
+  {
+    "it": "Visitare",
+    "en": "Visit"
+  },
+  {
+    "it": "Offrire",
+    "en": "Offer"
+  },
+  {
+    "it": "Finire",
+    "en": "Finish"
+  },
+  {
+    "it": "Venire",
+    "en": "Come"
+  },
+  {
+    "it": "Dire",
+    "en": "Say"
+  },
+  {
+    "it": "Morire",
+    "en": "Die"
+  },
+  {
+    "it": "Unire",
+    "en": "Unite"
+  },
+  {
+    "it": "Colpire",
+    "en": "Hit"
+  },
+  {
+    "it": "Mentire",
+    "en": "Lie"
+  },
+  {
+    "it": "Agire",
+    "en": "Act"
+  },
+  {
+    "it": "Fidarsi",
+    "en": "Trust"
+  },
+  {
+    "it": "Evitare",
+    "en": "Avoid"
+  },
+  {
+    "it": "Essere",
+    "en": "To be"
+  },
+  {
+    "it": "Avere",
+    "en": "To have"
+  },
+  {
+    "it": "Andare",
+    "en": "To go"
+  },
+  {
+    "it": "Volere",
+    "en": "Want"
+  },
+  {
+    "it": "Sapere",
+    "en": "To know"
+  },
+  {
+    "it": "Dire",
+    "en": "To say"
+  },
+  {
+    "it": "Dare",
+    "en": "To give"
+  },
+  {
+    "it": "Bere",
+    "en": "To drink"
+  },
+  {
+    "it": "Sedere",
+    "en": "To sit"
+  },
+  {
+    "it": "Morire",
+    "en": "To die"
+  },
+  {
+    "it": "Piacere",
+    "en": "To like"
+  },
+  {
+    "it": "Dolere",
+    "en": "To ache"
+  },
+  {
+    "it": "Rifare",
+    "en": "To redo"
+  },
+  {
+    "it": "Vederci",
+    "en": "To see"
+  },
+  {
+    "it": "Starci",
+    "en": "To fit in"
+  },
+  {
+    "it": "Piovere",
+    "en": "To rain"
+  },
+  {
+    "it": "Vivere",
+    "en": "To live*"
+  }
+]

@@ -1,0 +1,6 @@
+﻿app.tar
+app.tar.gz
+env312/
+venv/
+build/
+dist/

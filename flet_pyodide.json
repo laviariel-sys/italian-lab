@@ -1,1 +1,1 @@
- { "main_module": "main", "pyodide_root": "pyodide/" }
+ { "main_module": "main", "pyodide_root": "pyodide" }

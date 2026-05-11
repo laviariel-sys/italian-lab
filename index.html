@@ -24,16 +24,16 @@
     var flet = {
       pyodide: false,
       multiView: false,
-      noCdn: false,
+      noCdn: true,
       webSocketEndpoint: "/ws",
-      entrypointBaseUrl: "/",
-      assetBase: "/",
+      entrypointBaseUrl: "/italian-lab/",
+      assetBase: "/italian-lab/",
       routeUrlStrategy: "path",
       canvasKitBaseUrl: "/canvaskit/",
       pyodideUrl: "pyodide/pyodide.js",
       webRenderer: "auto",
       fontFallbackBaseUrl: "assets/fonts/", // for Noto Emoji, use Google CDN
-      appPackageUrl: "app.tar.gz"
+      appPackageUrl: "python.zip"
     }
 
     flet.flutterAppLoaded = new Promise((resolve) => {
@@ -77,7 +77,7 @@
 flet.pyodide = true;
 flet.micropipIncludePre = false;
 flet.pythonModuleName = "main";
-flet.noCdn=false;
+flet.noCdn=true;
 flet.webRenderer="auto";
 flet.routeUrlStrategy="path";
 flet.entrypointBaseUrl="/italian-lab/";

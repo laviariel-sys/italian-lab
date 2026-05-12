@@ -4,3 +4,9 @@ env312/
 venv/
 build/
 dist/
+
+.dart_tool/
+
+__pycache__/
+
+temp.*
